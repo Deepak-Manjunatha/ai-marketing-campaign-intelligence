@@ -28,7 +28,7 @@ This project answers:
 - Built a Python analytics pipeline for cleaning, feature engineering, KPI calculation, and visualization.
 - Created dashboard-ready processed datasets.
 - Produced executive-level insights and recommendations.
-- Documented the full workflow for GitHub and LinkedIn portfolio use.
+- Documented the full workflow for portfolio and hiring-manager review.
 
 ## Tools and Skills Demonstrated
 
@@ -149,17 +149,11 @@ If you are reviewing this project quickly, start here:
 4. `outputs/charts/`
 5. `dashboard/dashboard.html`
 
-## Suggested LinkedIn Post
+## Career Relevance
 
-I built an end-to-end AI Marketing Campaign Intelligence project using SQL, Python, and dashboard-ready datasets.
+This project demonstrates skills relevant to analytics, business intelligence, marketing analytics, and AI-enabled reporting roles.
 
-The project analyzes campaign spend, revenue, conversions, ROAS, city performance, and audience segments, then converts the results into executive recommendations.
-
-This helped me practice the full analytics workflow: business problem framing, data preparation, SQL analysis, Python KPI engineering, visualization, and insight storytelling.
-
-## Portfolio Positioning
-
-This project supports roles such as:
+Relevant roles include:
 
 - Data Analyst
 - Business Analyst
@@ -168,3 +162,13 @@ This project supports roles such as:
 - Product Analyst
 - Analytics Consultant
 - AI-enabled Business Analyst
+
+## Skills Demonstrated
+
+- Business problem framing
+- SQL-based analysis
+- Python data preparation
+- KPI engineering
+- Marketing campaign analytics
+- Dashboard-ready data modeling
+- Executive insight communication
