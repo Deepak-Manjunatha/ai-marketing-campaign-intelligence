@@ -1,6 +1,12 @@
 # AI Marketing Campaign Intelligence
 
-An end-to-end business analytics project that turns raw marketing campaign data into executive decisions using SQL, Python, visualization, and AI-style business recommendations.
+An end-to-end business analytics project that turns raw marketing campaign data into executive decisions using SQL, Python, visualization, and AI-assisted executive reporting.
+
+## Executive Summary
+
+- Retargeting and email delivered the strongest marketing efficiency, each producing more than 14x ROAS in the simulated campaign portfolio.
+- Google Search was the strongest scalable acquisition channel, generating approximately AUD 1.19M in revenue.
+- The final recommendation is to increase investment in high-intent channels, use awareness channels to build remarketing audiences, and review campaign performance weekly through dashboard reporting.
 
 ## Project Summary
 
@@ -30,6 +36,16 @@ This project answers:
 - Produced executive-level insights and recommendations.
 - Documented the full workflow for portfolio and hiring-manager review.
 
+## Dashboard Preview
+
+The project includes dashboard-ready datasets and generated visuals for executive review.
+
+![Revenue by Channel](outputs/charts/revenue_by_channel.png)
+
+![ROAS by Channel](outputs/charts/roas_by_channel.png)
+
+Additional visuals are available in `outputs/charts/`, including weekly performance trends, top campaign revenue, and audience segment ROAS.
+
 ## Tools and Skills Demonstrated
 
 - SQL
@@ -58,10 +74,6 @@ This project answers:
 ├── docs/
 │   ├── data_dictionary.md
 │   └── executive_report.md
-├── assets/
-│   └── profile/
-│       ├── deepak-m-github-avatar.png
-│       └── deepak-m-github-avatar.svg
 ├── notebooks/
 │   └── analysis_walkthrough.ipynb
 ├── outputs/
