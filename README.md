@@ -50,14 +50,18 @@ This project answers:
 ```text
 .
 ├── dashboard/
+│   ├── dashboard.html
 │   └── dashboard_wireframe.md
 ├── data/
 │   ├── raw/
 │   └── processed/
 ├── docs/
-│   ├── executive_report.md
-│   ├── github_upload_guide.html
-│   └── github_upload_guide.pdf
+│   ├── data_dictionary.md
+│   └── executive_report.md
+├── assets/
+│   └── profile/
+│       ├── deepak-m-github-avatar.png
+│       └── deepak-m-github-avatar.svg
 ├── notebooks/
 │   └── analysis_walkthrough.ipynb
 ├── outputs/
