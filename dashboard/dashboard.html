@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Marketing Campaign Intelligence Dashboard</title>
+  <style>
+    :root {
+      --ink: #17202a;
+      --muted: #5d6b7a;
+      --line: #d9e2ec;
+      --blue: #1d4ed8;
+      --green: #0f766e;
+      --panel: #ffffff;
+      --bg: #f4f7fb;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+    }
+    header {
+      padding: 34px 42px;
+      color: #fff;
+      background: linear-gradient(135deg, #111827, #1d4ed8);
+    }
+    h1 { margin: 0; font-size: 34px; letter-spacing: 0; }
+    header p { max-width: 900px; color: rgba(255,255,255,.84); font-size: 16px; }
+    main { padding: 28px 42px 42px; max-width: 1220px; margin: 0 auto; }
+    .kpis {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 22px;
+    }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 18px;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, .06);
+    }
+    .kpi-label {
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      font-size: 11px;
+      font-weight: 800;
+    }
+    .kpi-value {
+      margin-top: 8px;
+      font-size: 28px;
+      font-weight: 900;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+    img { width: 100%; display: block; border-radius: 8px; }
+    h2 { margin: 0 0 12px; font-size: 18px; }
+    ul { margin: 0; padding-left: 20px; }
+    li { margin: 7px 0; }
+    @media (max-width: 900px) {
+      .kpis, .grid { grid-template-columns: 1fr; }
+      header, main { padding-left: 22px; padding-right: 22px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AI Marketing Campaign Intelligence Dashboard</h1>
+    <p>
+      Executive dashboard concept for campaign spend, revenue, ROAS, CPA, audience segments,
+      and city-level market opportunity. Built as part of an end-to-end analytics portfolio project.
+    </p>
+  </header>
+  <main>
+    <section class="kpis">
+      <div class="card"><div class="kpi-label">Best Channel</div><div class="kpi-value">Retargeting</div></div>
+      <div class="card"><div class="kpi-label">Best ROAS</div><div class="kpi-value">14.44x</div></div>
+      <div class="card"><div class="kpi-label">Top City</div><div class="kpi-value">Melbourne</div></div>
+      <div class="card"><div class="kpi-label">Best Scale Channel</div><div class="kpi-value">Search</div></div>
+    </section>
+
+    <section class="grid">
+      <div class="card">
+        <h2>Revenue by Channel</h2>
+        <img src="../outputs/charts/revenue_by_channel.png" alt="Revenue by marketing channel">
+      </div>
+      <div class="card">
+        <h2>ROAS by Channel</h2>
+        <img src="../outputs/charts/roas_by_channel.png" alt="ROAS by marketing channel">
+      </div>
+      <div class="card">
+        <h2>Weekly Revenue vs Spend</h2>
+        <img src="../outputs/charts/weekly_revenue_vs_spend.png" alt="Weekly revenue and spend chart">
+      </div>
+      <div class="card">
+        <h2>Audience Segment ROAS</h2>
+        <img src="../outputs/charts/roas_by_audience_segment.png" alt="ROAS by audience segment">
+      </div>
+    </section>
+
+    <section class="card" style="margin-top:18px;">
+      <h2>Executive Recommendation</h2>
+      <ul>
+        <li>Increase budget for retargeting, email, and Google Search because they show the strongest commercial efficiency.</li>
+        <li>Use influencer and LinkedIn campaigns for awareness and audience creation, then convert that traffic using retargeting.</li>
+        <li>Prioritize Melbourne, Bangalore, and Sydney for market-specific campaign playbooks.</li>
+        <li>Build weekly management reporting around ROAS, CPA, conversion rate, revenue, and channel mix.</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>
+

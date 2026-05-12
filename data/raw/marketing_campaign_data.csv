@@ -1,0 +1,521 @@
+campaign_id,date,campaign_name,channel,city,audience_segment,objective,spend_aud,impressions,clicks,leads,conversions,revenue_aud,customer_rating
+CMP-0289,2025-01-01,Festival Push - Influencer,Influencer,Bangalore,Corporate Buyers,Ticket Sales,635.94,14296,478,85,6,1744.69,4.39
+CMP-0470,2025-01-01,Summer Launch - Email,Email,Mumbai,Families,Awareness,397.78,4875,443,73,10,1401.19,4.25
+CMP-0227,2025-01-02,Corporate Outreach - Meta Ads,Meta Ads,Mumbai,Corporate Buyers,Sponsorship,751.35,21514,630,129,7,1421.22,4.63
+CMP-0201,2025-01-03,Corporate Outreach - Google Search,Google Search,Melbourne,Families,Lead Generation,1574.71,47698,2145,348,50,9835.97,3.89
+CMP-0331,2025-01-03,Summer Launch - Google Search,Google Search,Brisbane,Music Enthusiasts,Ticket Sales,922.29,15101,850,150,11,3384.19,3.55
+CMP-0415,2025-01-03,VIP Upgrade - LinkedIn Ads,LinkedIn Ads,Sydney,Music Enthusiasts,Ticket Sales,916.41,17130,233,39,5,1058.71,4.06
+CMP-0325,2025-01-04,Festival Push - Meta Ads,Meta Ads,Bangalore,Students,Lead Generation,931.0,20843,548,93,9,1566.0,4.15
+CMP-0034,2025-01-05,Weekend Boost - Google Search,Google Search,Bangalore,Corporate Buyers,Ticket Sales,1708.34,23218,935,115,26,9361.38,4.38
+CMP-0252,2025-01-05,Corporate Outreach - Meta Ads,Meta Ads,Melbourne,Corporate Buyers,Lead Generation,364.57,5363,130,19,2,529.13,4.51
+CMP-0193,2025-01-07,Weekend Boost - Meta Ads,Meta Ads,Sydney,Music Enthusiasts,Sponsorship,1145.95,27873,712,116,16,3895.03,4.05
+CMP-0371,2025-01-07,Weekend Boost - Google Search,Google Search,Melbourne,Premium Experience Seekers,Awareness,1016.07,23999,1509,308,22,10024.23,4.63
+CMP-0174,2025-01-08,Festival Push - Meta Ads,Meta Ads,Brisbane,Corporate Buyers,Ticket Sales,1034.44,17514,404,53,6,1665.85,4.28
+CMP-0241,2025-01-08,Festival Push - Meta Ads,Meta Ads,Bangalore,Music Enthusiasts,Awareness,1185.74,25571,641,79,7,1858.8,3.78
+CMP-0509,2025-01-08,Early Bird - Meta Ads,Meta Ads,Melbourne,Students,Ticket Sales,1092.61,19797,400,81,9,1271.91,4.07
+CMP-0074,2025-01-09,VIP Upgrade - Google Search,Google Search,Melbourne,Music Enthusiasts,Sponsorship,1916.77,38608,2641,466,101,31012.14,5.0
+CMP-0169,2025-01-09,Last Mile Sales - Email,Email,Sydney,Premium Experience Seekers,Sponsorship,385.63,5060,431,64,28,4891.32,4.76
+CMP-0237,2025-01-10,Summer Launch - Influencer,Influencer,Mumbai,Families,Lead Generation,1012.41,21102,633,122,2,403.14,4.16
+CMP-0273,2025-01-10,VIP Upgrade - Retargeting,Retargeting,Melbourne,Music Enthusiasts,Awareness,911.43,24119,1952,370,71,14407.2,4.15
+CMP-0506,2025-01-10,Weekend Boost - Email,Email,Melbourne,Premium Experience Seekers,Retargeting,331.87,5990,714,125,35,11000.88,4.4
+CMP-0118,2025-01-14,Early Bird - Email,Email,Sydney,Students,Ticket Sales,272.81,4329,563,107,20,3448.32,4.16
+CMP-0213,2025-01-14,Summer Launch - Email,Email,Melbourne,Premium Experience Seekers,Lead Generation,329.18,6264,476,69,17,5149.74,4.15
+CMP-0246,2025-01-14,Festival Push - Meta Ads,Meta Ads,Brisbane,Corporate Buyers,Retargeting,1453.65,17934,508,66,6,1368.15,4.05
+CMP-0398,2025-01-15,VIP Upgrade - Google Search,Google Search,Melbourne,Young Professionals,Ticket Sales,1355.25,21106,1233,267,43,6740.03,3.86
+CMP-0220,2025-01-16,VIP Upgrade - Email,Email,Bangalore,Music Enthusiasts,Ticket Sales,472.93,9867,1039,191,42,8546.6,4.7
+CMP-0344,2025-01-16,Weekend Boost - Meta Ads,Meta Ads,Melbourne,Premium Experience Seekers,Retargeting,677.71,15359,415,87,10,1805.31,3.7
+CMP-0195,2025-01-17,Student Offer - Email,Email,Delhi,Families,Retargeting,333.52,7443,954,180,43,5166.99,3.75
+CMP-0307,2025-01-17,Corporate Outreach - Sponsorship,Sponsorship,Melbourne,Music Enthusiasts,Awareness,1691.44,32181,717,145,6,3315.37,4.78
+CMP-0062,2025-01-19,Summer Launch - LinkedIn Ads,LinkedIn Ads,Brisbane,Families,Lead Generation,597.55,11814,196,28,1,363.81,4.12
+CMP-0107,2025-01-19,Summer Launch - Retargeting,Retargeting,Mumbai,Music Enthusiasts,Awareness,251.64,3829,336,59,12,3111.61,4.47
+CMP-0242,2025-01-20,Weekend Boost - Retargeting,Retargeting,Sydney,Students,Ticket Sales,547.77,7412,475,100,20,2848.66,3.56
+CMP-0209,2025-01-22,Corporate Outreach - Email,Email,Sydney,Premium Experience Seekers,Retargeting,379.9,9304,849,94,46,7256.68,4.31
+CMP-0425,2025-01-24,Festival Push - Meta Ads,Meta Ads,Bangalore,Young Professionals,Awareness,558.5,8625,231,48,3,682.56,3.94
+CMP-0476,2025-01-24,Last Mile Sales - Influencer,Influencer,Sydney,Premium Experience Seekers,Lead Generation,960.66,14603,438,78,5,1285.45,3.96
+CMP-0135,2025-01-26,Festival Push - Sponsorship,Sponsorship,Melbourne,Music Enthusiasts,Sponsorship,1072.31,27950,479,100,11,5734.07,4.68
+CMP-0269,2025-01-27,Student Offer - Influencer,Influencer,Delhi,Families,Awareness,760.88,15998,534,134,2,449.44,4.27
+CMP-0368,2025-01-28,Festival Push - Email,Email,Melbourne,Corporate Buyers,Awareness,434.47,7224,698,85,9,2258.29,3.92
+CMP-0122,2025-01-29,Corporate Outreach - Meta Ads,Meta Ads,Sydney,Families,Awareness,1072.31,17517,415,96,3,550.29,3.55
+CMP-0441,2025-01-29,Early Bird - Meta Ads,Meta Ads,Mumbai,Young Professionals,Retargeting,259.93,5073,132,27,1,250.87,4.49
+CMP-0019,2025-01-31,Student Offer - Email,Email,Melbourne,Premium Experience Seekers,Ticket Sales,322.74,5829,504,108,26,8362.0,4.15
+CMP-0324,2025-02-01,Corporate Outreach - Google Search,Google Search,Delhi,Families,Retargeting,1698.98,28612,1300,226,28,4507.7,4.18
+CMP-0073,2025-02-02,VIP Upgrade - Influencer,Influencer,Mumbai,Families,Ticket Sales,191.22,4127,163,22,1,157.69,3.89
+CMP-0194,2025-02-03,Summer Launch - Influencer,Influencer,Mumbai,Corporate Buyers,Ticket Sales,575.63,11544,358,63,3,568.3,4.23
+CMP-0466,2025-02-03,Early Bird - Influencer,Influencer,Sydney,Premium Experience Seekers,Sponsorship,550.93,8740,294,51,4,1474.25,4.47
+CMP-0475,2025-02-03,Early Bird - Meta Ads,Meta Ads,Bangalore,Corporate Buyers,Awareness,1118.71,25852,859,138,12,3865.45,3.62
+CMP-0011,2025-02-04,Corporate Outreach - Influencer,Influencer,Sydney,Young Professionals,Ticket Sales,542.2,11232,361,82,5,1223.03,4.71
+CMP-0025,2025-02-04,Weekend Boost - Google Search,Google Search,Sydney,Premium Experience Seekers,Awareness,1341.96,29416,1049,222,21,5521.11,4.03
+CMP-0184,2025-02-04,VIP Upgrade - Sponsorship,Sponsorship,Sydney,Families,Retargeting,2076.66,43665,543,84,13,5050.85,4.02
+CMP-0253,2025-02-04,Last Mile Sales - Sponsorship,Sponsorship,Mumbai,Families,Awareness,1507.51,27755,469,70,5,2027.19,3.97
+CMP-0352,2025-02-04,Corporate Outreach - Email,Email,Sydney,Young Professionals,Retargeting,381.55,10260,972,171,62,14212.31,4.09
+CMP-0099,2025-02-06,VIP Upgrade - Google Search,Google Search,Melbourne,Students,Sponsorship,1155.45,31295,1598,273,28,4518.58,4.11
+CMP-0488,2025-02-08,Summer Launch - Sponsorship,Sponsorship,Mumbai,Premium Experience Seekers,Ticket Sales,1214.85,17769,413,110,8,3703.5,3.93
+CMP-0054,2025-02-09,Early Bird - Google Search,Google Search,Sydney,Premium Experience Seekers,Awareness,1332.35,19059,1070,162,13,5232.95,4.28
+CMP-0302,2025-02-10,Student Offer - Sponsorship,Sponsorship,Brisbane,Music Enthusiasts,Retargeting,1468.88,29753,499,109,7,3388.97,4.54
+CMP-0067,2025-02-11,Early Bird - Meta Ads,Meta Ads,Delhi,Students,Sponsorship,1322.91,29820,912,184,17,1566.95,4.23
+CMP-0191,2025-02-12,Summer Launch - Meta Ads,Meta Ads,Bangalore,Families,Awareness,1562.04,32705,586,84,3,501.4,4.16
+CMP-0505,2025-02-12,Student Offer - Meta Ads,Meta Ads,Melbourne,Music Enthusiasts,Awareness,740.62,15519,355,61,4,214.67,5.0
+CMP-0037,2025-02-13,Student Offer - Sponsorship,Sponsorship,Melbourne,Music Enthusiasts,Retargeting,1892.22,47893,851,193,19,8270.63,3.99
+CMP-0271,2025-02-13,Early Bird - Google Search,Google Search,Mumbai,Corporate Buyers,Retargeting,1303.93,31134,1979,310,78,21189.83,4.84
+CMP-0082,2025-02-15,Early Bird - Email,Email,Sydney,Young Professionals,Awareness,360.17,8882,1059,202,31,4375.56,4.17
+CMP-0204,2025-02-18,Weekend Boost - Google Search,Google Search,Mumbai,Corporate Buyers,Ticket Sales,1599.89,26224,982,185,29,8491.14,4.23
+CMP-0283,2025-02-18,VIP Upgrade - Retargeting,Retargeting,Delhi,Premium Experience Seekers,Ticket Sales,567.29,9270,650,131,18,4722.35,4.73
+CMP-0026,2025-02-19,Corporate Outreach - Sponsorship,Sponsorship,Bangalore,Premium Experience Seekers,Sponsorship,1347.7,27776,632,56,14,9499.92,4.3
+CMP-0031,2025-02-20,VIP Upgrade - Sponsorship,Sponsorship,Delhi,Families,Ticket Sales,1689.91,23107,526,101,11,3981.98,4.48
+CMP-0078,2025-02-20,VIP Upgrade - Retargeting,Retargeting,Mumbai,Corporate Buyers,Awareness,917.04,16758,654,78,14,3373.92,4.06
+CMP-0287,2025-02-20,Corporate Outreach - Google Search,Google Search,Brisbane,Corporate Buyers,Sponsorship,1135.81,21909,1061,119,21,8352.03,3.46
+CMP-0448,2025-02-20,Last Mile Sales - Google Search,Google Search,Brisbane,Corporate Buyers,Ticket Sales,1262.8,21131,1274,212,30,11168.11,4.13
+CMP-0171,2025-02-21,VIP Upgrade - Meta Ads,Meta Ads,Melbourne,Corporate Buyers,Sponsorship,492.56,8562,240,34,6,1093.84,4.1
+CMP-0172,2025-02-21,Early Bird - Google Search,Google Search,Mumbai,Young Professionals,Ticket Sales,1167.35,19917,1126,212,33,7904.89,4.48
+CMP-0018,2025-02-22,VIP Upgrade - Sponsorship,Sponsorship,Mumbai,Young Professionals,Ticket Sales,1587.06,40676,744,150,6,2948.85,3.9
+CMP-0157,2025-02-22,Festival Push - Retargeting,Retargeting,Sydney,Families,Lead Generation,678.49,14313,961,110,34,5821.3,4.15
+CMP-0263,2025-02-22,VIP Upgrade - Meta Ads,Meta Ads,Sydney,Premium Experience Seekers,Awareness,1204.86,22486,743,151,12,2078.93,4.11
+CMP-0515,2025-02-22,Festival Push - Google Search,Google Search,Brisbane,Families,Awareness,1149.39,29078,1637,410,25,8481.07,4.26
+CMP-0040,2025-02-24,Festival Push - Influencer,Influencer,Bangalore,Corporate Buyers,Retargeting,732.09,15663,656,165,10,2913.17,4.58
+CMP-0225,2025-02-24,Last Mile Sales - Retargeting,Retargeting,Melbourne,Families,Ticket Sales,763.68,9745,750,194,45,10993.76,4.26
+CMP-0319,2025-02-24,Weekend Boost - LinkedIn Ads,LinkedIn Ads,Bangalore,Families,Retargeting,1154.32,24182,256,32,6,1905.37,3.97
+CMP-0501,2025-02-24,Early Bird - Meta Ads,Meta Ads,Sydney,Families,Ticket Sales,1025.75,17245,538,37,11,2867.16,3.67
+CMP-0351,2025-02-25,Student Offer - Google Search,Google Search,Delhi,Families,Awareness,1563.33,32975,2405,553,36,7382.61,4.36
+CMP-0023,2025-02-26,Last Mile Sales - Meta Ads,Meta Ads,Melbourne,Premium Experience Seekers,Awareness,943.28,13677,353,60,4,922.42,4.37
+CMP-0041,2025-02-26,Corporate Outreach - LinkedIn Ads,LinkedIn Ads,Bangalore,Corporate Buyers,Ticket Sales,466.13,5457,61,10,0,0.0,4.59
+CMP-0230,2025-02-26,Early Bird - Meta Ads,Meta Ads,Delhi,Corporate Buyers,Retargeting,828.52,16056,539,124,7,1719.1,4.23
+CMP-0376,2025-02-26,Weekend Boost - Sponsorship,Sponsorship,Mumbai,Music Enthusiasts,Lead Generation,2137.08,36636,578,101,9,4335.57,3.65
+CMP-0335,2025-02-27,Weekend Boost - Sponsorship,Sponsorship,Mumbai,Families,Sponsorship,1839.28,45849,815,140,15,5860.49,4.5
+CMP-0340,2025-02-27,Corporate Outreach - Meta Ads,Meta Ads,Melbourne,Premium Experience Seekers,Ticket Sales,671.8,14294,295,56,5,1719.97,4.31
+CMP-0516,2025-02-27,Last Mile Sales - Email,Email,Melbourne,Corporate Buyers,Awareness,262.02,6583,731,160,17,3941.79,4.18
+CMP-0405,2025-02-28,Weekend Boost - Sponsorship,Sponsorship,Melbourne,Students,Ticket Sales,1226.37,32665,290,42,10,4262.34,3.81
+CMP-0063,2025-03-01,Summer Launch - Meta Ads,Meta Ads,Melbourne,Young Professionals,Retargeting,922.19,13958,270,55,5,774.32,4.17
+CMP-0066,2025-03-01,VIP Upgrade - Google Search,Google Search,Delhi,Young Professionals,Ticket Sales,1119.9,18397,958,162,19,7293.38,4.82
+CMP-0216,2025-03-01,Early Bird - Meta Ads,Meta Ads,Brisbane,Families,Lead Generation,1342.9,30413,823,134,8,1428.04,4.4
+CMP-0392,2025-03-01,Student Offer - Email,Email,Sydney,Young Professionals,Retargeting,537.43,8992,871,133,58,13100.71,3.96
+CMP-0461,2025-03-01,Early Bird - Influencer,Influencer,Bangalore,Young Professionals,Ticket Sales,1074.59,24866,596,117,6,915.49,4.28
+CMP-0265,2025-03-03,Last Mile Sales - LinkedIn Ads,LinkedIn Ads,Brisbane,Music Enthusiasts,Retargeting,359.08,5421,96,18,0,0.0,4.2
+CMP-0277,2025-03-03,Corporate Outreach - Influencer,Influencer,Melbourne,Young Professionals,Ticket Sales,1328.55,25170,575,89,7,1778.54,4.39
+CMP-0320,2025-03-03,Last Mile Sales - Retargeting,Retargeting,Bangalore,Corporate Buyers,Ticket Sales,940.35,19001,1696,320,114,36269.97,4.42
+CMP-0428,2025-03-03,Last Mile Sales - Meta Ads,Meta Ads,Bangalore,Young Professionals,Lead Generation,1237.1,27604,815,115,10,2117.56,3.98
+CMP-0097,2025-03-06,Early Bird - Influencer,Influencer,Mumbai,Young Professionals,Ticket Sales,887.33,19591,487,99,4,748.61,4.66
+CMP-0338,2025-03-06,Student Offer - Google Search,Google Search,Melbourne,Students,Ticket Sales,1282.03,16040,661,119,19,4148.65,3.77
+CMP-0281,2025-03-07,Corporate Outreach - Influencer,Influencer,Bangalore,Families,Sponsorship,694.84,16966,566,95,10,2023.24,4.56
+CMP-0326,2025-03-07,Weekend Boost - Google Search,Google Search,Melbourne,Students,Lead Generation,1405.73,30674,1675,304,49,11869.27,4.52
+CMP-0420,2025-03-07,Last Mile Sales - Sponsorship,Sponsorship,Brisbane,Young Professionals,Lead Generation,1477.6,20351,279,50,5,2800.56,3.6
+CMP-0362,2025-03-08,VIP Upgrade - Google Search,Google Search,Mumbai,Young Professionals,Ticket Sales,1219.11,29307,1440,248,33,10685.79,3.93
+CMP-0117,2025-03-09,Festival Push - Google Search,Google Search,Melbourne,Families,Lead Generation,1556.79,32817,1833,449,51,12873.12,5.0
+CMP-0270,2025-03-09,Early Bird - Influencer,Influencer,Bangalore,Music Enthusiasts,Retargeting,758.1,9930,238,51,3,552.53,4.28
+CMP-0151,2025-03-10,Festival Push - Meta Ads,Meta Ads,Melbourne,Young Professionals,Awareness,798.15,22102,717,131,6,1059.21,4.23
+CMP-0178,2025-03-10,Festival Push - Meta Ads,Meta Ads,Brisbane,Families,Retargeting,1160.96,21376,588,121,8,1624.03,3.85
+CMP-0120,2025-03-11,Student Offer - Google Search,Google Search,Mumbai,Students,Lead Generation,1381.93,21408,1379,308,39,5224.08,4.49
+CMP-0182,2025-03-12,Early Bird - Meta Ads,Meta Ads,Melbourne,Young Professionals,Lead Generation,970.54,19619,324,47,5,1084.07,3.8
+CMP-0255,2025-03-12,Weekend Boost - Google Search,Google Search,Mumbai,Premium Experience Seekers,Sponsorship,1080.25,29762,1547,157,57,28313.93,4.75
+CMP-0468,2025-03-12,VIP Upgrade - Email,Email,Melbourne,Corporate Buyers,Ticket Sales,471.21,11502,856,177,47,11785.21,4.6
+CMP-0207,2025-03-13,Last Mile Sales - Retargeting,Retargeting,Bangalore,Premium Experience Seekers,Ticket Sales,1162.07,30121,2569,427,111,37920.18,3.81
+CMP-0407,2025-03-13,Weekend Boost - Google Search,Google Search,Melbourne,Young Professionals,Lead Generation,884.63,16022,742,173,15,4738.2,4.19
+CMP-0130,2025-03-14,Early Bird - Google Search,Google Search,Mumbai,Young Professionals,Awareness,1407.49,31321,1662,318,35,7611.74,4.51
+CMP-0427,2025-03-14,Festival Push - Meta Ads,Meta Ads,Sydney,Music Enthusiasts,Lead Generation,1003.74,16463,417,106,6,951.21,4.26
+CMP-0490,2025-03-14,VIP Upgrade - Retargeting,Retargeting,Bangalore,Families,Awareness,773.37,20114,1156,185,38,6140.59,4.47
+CMP-0001,2025-03-15,Student Offer - Sponsorship,Sponsorship,Sydney,Corporate Buyers,Ticket Sales,921.32,18897,320,57,5,3678.27,4.47
+CMP-0339,2025-03-15,Summer Launch - Retargeting,Retargeting,Bangalore,Students,Ticket Sales,759.47,20245,1518,303,84,10931.91,4.03
+CMP-0164,2025-03-16,Last Mile Sales - Retargeting,Retargeting,Brisbane,Families,Awareness,573.03,10048,560,79,7,1498.87,4.83
+CMP-0321,2025-03-16,Summer Launch - Retargeting,Retargeting,Brisbane,Students,Ticket Sales,682.83,14755,966,184,37,4055.06,4.2
+CMP-0417,2025-03-16,Early Bird - Influencer,Influencer,Melbourne,Families,Lead Generation,813.27,17909,412,99,3,587.98,4.5
+CMP-0147,2025-03-17,Early Bird - Retargeting,Retargeting,Mumbai,Music Enthusiasts,Sponsorship,868.22,18630,1149,195,38,6997.88,4.01
+CMP-0479,2025-03-17,Corporate Outreach - Meta Ads,Meta Ads,Bangalore,Music Enthusiasts,Retargeting,1136.42,14291,474,95,12,2891.4,4.14
+CMP-0261,2025-03-18,VIP Upgrade - Retargeting,Retargeting,Delhi,Corporate Buyers,Sponsorship,530.68,10348,654,170,31,11410.62,4.13
+CMP-0214,2025-03-19,Corporate Outreach - Retargeting,Retargeting,Brisbane,Music Enthusiasts,Ticket Sales,836.0,25426,1683,275,81,22732.83,4.01
+CMP-0385,2025-03-19,Weekend Boost - Meta Ads,Meta Ads,Brisbane,Premium Experience Seekers,Retargeting,1418.22,29399,976,138,11,2151.04,4.29
+CMP-0299,2025-03-21,Corporate Outreach - Sponsorship,Sponsorship,Brisbane,Families,Sponsorship,2128.48,46770,835,86,7,2980.51,4.07
+CMP-0002,2025-03-24,VIP Upgrade - Influencer,Influencer,Delhi,Students,Ticket Sales,838.47,13553,486,86,5,732.02,4.63
+CMP-0004,2025-03-24,Early Bird - Google Search,Google Search,Melbourne,Students,Ticket Sales,1477.71,33947,1937,303,68,14011.89,4.28
+CMP-0228,2025-03-24,Student Offer - Meta Ads,Meta Ads,Brisbane,Families,Awareness,1367.27,26864,752,166,5,650.66,4.13
+CMP-0406,2025-03-24,Summer Launch - Google Search,Google Search,Bangalore,Young Professionals,Lead Generation,1385.99,24727,1467,228,28,4540.26,3.65
+CMP-0260,2025-03-25,VIP Upgrade - Sponsorship,Sponsorship,Melbourne,Corporate Buyers,Lead Generation,2022.42,34934,858,153,17,10355.92,4.19
+CMP-0387,2025-03-25,Summer Launch - Email,Email,Mumbai,Premium Experience Seekers,Awareness,386.88,6573,586,87,18,4779.45,4.33
+CMP-0424,2025-03-25,Weekend Boost - Sponsorship,Sponsorship,Bangalore,Young Professionals,Ticket Sales,915.84,11183,161,24,2,833.12,3.49
+CMP-0437,2025-03-26,Student Offer - Influencer,Influencer,Bangalore,Families,Retargeting,884.82,18389,394,97,3,619.33,4.34
+CMP-0493,2025-03-26,Last Mile Sales - Google Search,Google Search,Mumbai,Corporate Buyers,Retargeting,1212.48,23751,1242,244,65,22230.35,4.43
+CMP-0275,2025-03-27,VIP Upgrade - Influencer,Influencer,Mumbai,Premium Experience Seekers,Awareness,647.96,10043,382,83,3,1282.75,4.13
+CMP-0022,2025-03-28,Early Bird - Retargeting,Retargeting,Sydney,Music Enthusiasts,Lead Generation,471.17,12885,1393,193,48,12272.1,4.81
+CMP-0141,2025-03-28,Festival Push - LinkedIn Ads,LinkedIn Ads,Melbourne,Young Professionals,Ticket Sales,885.93,16947,220,41,3,1155.47,4.23
+CMP-0379,2025-03-29,Festival Push - Email,Email,Sydney,Families,Ticket Sales,255.86,5219,350,64,11,1563.85,4.57
+CMP-0166,2025-03-31,Corporate Outreach - Google Search,Google Search,Brisbane,Music Enthusiasts,Ticket Sales,1156.76,20444,766,150,17,3687.99,4.01
+CMP-0250,2025-03-31,Student Offer - Influencer,Influencer,Sydney,Families,Awareness,1051.21,22047,582,136,4,776.98,4.08
+CMP-0218,2025-04-02,Student Offer - Email,Email,Sydney,Music Enthusiasts,Lead Generation,340.59,6808,718,111,28,4731.14,4.58
+CMP-0513,2025-04-02,Weekend Boost - Google Search,Google Search,Bangalore,Premium Experience Seekers,Ticket Sales,1506.45,35926,2354,470,81,34435.97,4.58
+CMP-0030,2025-04-03,Summer Launch - Sponsorship,Sponsorship,Delhi,Students,Retargeting,956.08,16554,314,69,6,1122.36,4.31
+CMP-0345,2025-04-03,Last Mile Sales - Google Search,Google Search,Sydney,Corporate Buyers,Sponsorship,1388.77,28934,1829,359,66,28725.0,4.24
+CMP-0254,2025-04-04,Summer Launch - Retargeting,Retargeting,Melbourne,Music Enthusiasts,Ticket Sales,515.72,11982,764,99,50,10485.06,4.06
+CMP-0439,2025-04-05,Early Bird - Email,Email,Bangalore,Families,Ticket Sales,358.39,7504,492,60,26,3360.51,4.31
+CMP-0463,2025-04-05,Summer Launch - Meta Ads,Meta Ads,Bangalore,Students,Ticket Sales,1013.84,18367,456,113,5,822.39,3.85
+CMP-0189,2025-04-06,Last Mile Sales - Google Search,Google Search,Mumbai,Young Professionals,Awareness,966.69,21953,988,159,13,4424.46,4.42
+CMP-0457,2025-04-06,Early Bird - Retargeting,Retargeting,Sydney,Students,Sponsorship,489.5,9018,486,93,32,4728.99,4.05
+CMP-0080,2025-04-07,VIP Upgrade - Google Search,Google Search,Mumbai,Music Enthusiasts,Awareness,873.31,14840,826,164,12,4151.24,4.61
+CMP-0519,2025-04-07,Student Offer - LinkedIn Ads,LinkedIn Ads,Brisbane,Students,Lead Generation,975.09,18902,289,55,2,608.29,4.36
+CMP-0264,2025-04-08,Student Offer - Meta Ads,Meta Ads,Bangalore,Music Enthusiasts,Ticket Sales,1182.95,34825,880,145,18,4701.78,4.0
+CMP-0477,2025-04-08,Early Bird - Google Search,Google Search,Mumbai,Young Professionals,Awareness,869.71,20938,904,141,13,3382.14,4.31
+CMP-0032,2025-04-09,Corporate Outreach - Meta Ads,Meta Ads,Mumbai,Premium Experience Seekers,Sponsorship,743.1,14423,378,73,9,1813.71,4.16
+CMP-0328,2025-04-09,Early Bird - Google Search,Google Search,Bangalore,Corporate Buyers,Ticket Sales,694.38,11783,424,85,25,7545.41,3.62
+CMP-0322,2025-04-12,Early Bird - LinkedIn Ads,LinkedIn Ads,Sydney,Young Professionals,Lead Generation,963.88,21464,195,25,3,897.68,4.41
+CMP-0330,2025-04-12,Weekend Boost - Meta Ads,Meta Ads,Sydney,Music Enthusiasts,Ticket Sales,1141.98,22542,736,156,15,3875.87,4.46
+CMP-0276,2025-04-13,Student Offer - Influencer,Influencer,Sydney,Students,Awareness,675.35,14512,517,90,5,906.3,4.29
+CMP-0119,2025-04-14,Student Offer - Google Search,Google Search,Mumbai,Music Enthusiasts,Awareness,1919.53,41970,2034,330,32,8586.28,4.07
+CMP-0390,2025-04-14,VIP Upgrade - Retargeting,Retargeting,Melbourne,Students,Ticket Sales,474.8,10301,733,167,38,5307.61,4.11
+CMP-0021,2025-04-16,Summer Launch - LinkedIn Ads,LinkedIn Ads,Delhi,Premium Experience Seekers,Awareness,686.14,7829,106,15,0,0.0,4.17
+CMP-0258,2025-04-17,Early Bird - Google Search,Google Search,Melbourne,Students,Sponsorship,1203.76,25169,1685,328,73,18438.3,3.79
+CMP-0323,2025-04-17,Early Bird - Sponsorship,Sponsorship,Brisbane,Young Professionals,Ticket Sales,1267.99,20033,377,51,6,4703.19,4.67
+CMP-0481,2025-04-18,Weekend Boost - Email,Email,Melbourne,Corporate Buyers,Ticket Sales,399.45,6414,661,106,30,9228.0,4.48
+CMP-0136,2025-04-19,Weekend Boost - Retargeting,Retargeting,Sydney,Premium Experience Seekers,Ticket Sales,755.3,10371,640,102,29,5886.53,3.98
+CMP-0192,2025-04-19,VIP Upgrade - Meta Ads,Meta Ads,Sydney,Families,Ticket Sales,724.51,11594,315,58,3,479.69,4.2
+CMP-0121,2025-04-20,Festival Push - Sponsorship,Sponsorship,Mumbai,Families,Sponsorship,1521.97,32212,733,163,4,1540.35,4.14
+CMP-0235,2025-04-21,Weekend Boost - Email,Email,Bangalore,Students,Awareness,430.46,8227,892,139,15,2219.35,3.59
+CMP-0499,2025-04-21,VIP Upgrade - Google Search,Google Search,Sydney,Young Professionals,Ticket Sales,643.13,16805,1089,218,27,9991.01,4.08
+CMP-0059,2025-04-22,Early Bird - Retargeting,Retargeting,Melbourne,Families,Retargeting,191.67,4435,330,51,12,2621.11,4.32
+CMP-0089,2025-04-22,Corporate Outreach - Google Search,Google Search,Bangalore,Students,Ticket Sales,817.82,21074,997,121,25,3894.3,4.22
+CMP-0173,2025-04-22,Summer Launch - Email,Email,Sydney,Corporate Buyers,Ticket Sales,388.98,4833,462,108,22,5352.66,4.0
+CMP-0327,2025-04-24,Summer Launch - Google Search,Google Search,Brisbane,Young Professionals,Ticket Sales,1336.45,22795,1334,372,30,8061.98,4.04
+CMP-0044,2025-04-25,Corporate Outreach - Meta Ads,Meta Ads,Sydney,Families,Awareness,477.46,8908,154,19,2,398.58,3.95
+CMP-0247,2025-04-25,Festival Push - Email,Email,Melbourne,Students,Awareness,387.46,9055,602,114,18,1997.01,4.2
+CMP-0346,2025-04-25,Corporate Outreach - Email,Email,Melbourne,Premium Experience Seekers,Ticket Sales,430.84,8529,969,107,43,10591.24,3.95
+CMP-0511,2025-04-25,Summer Launch - Influencer,Influencer,Brisbane,Students,Ticket Sales,791.12,15175,310,61,4,1071.94,4.06
+CMP-0295,2025-04-26,Summer Launch - Meta Ads,Meta Ads,Sydney,Corporate Buyers,Ticket Sales,725.27,15914,330,59,5,1322.15,4.24
+CMP-0357,2025-04-26,Early Bird - Google Search,Google Search,Brisbane,Families,Retargeting,1217.1,13557,677,118,17,4916.16,3.77
+CMP-0432,2025-04-26,Festival Push - Sponsorship,Sponsorship,Melbourne,Premium Experience Seekers,Awareness,1525.98,22492,301,66,4,2798.41,4.72
+CMP-0053,2025-04-29,Last Mile Sales - Sponsorship,Sponsorship,Brisbane,Premium Experience Seekers,Ticket Sales,1659.26,29351,649,102,8,5847.7,4.47
+CMP-0478,2025-04-29,Student Offer - Google Search,Google Search,Brisbane,Young Professionals,Retargeting,1231.46,30351,1377,170,36,12241.44,4.26
+CMP-0158,2025-04-30,Festival Push - Retargeting,Retargeting,Melbourne,Students,Ticket Sales,622.04,11421,824,92,48,8067.8,4.21
+CMP-0308,2025-04-30,Summer Launch - Sponsorship,Sponsorship,Sydney,Music Enthusiasts,Sponsorship,1657.35,23906,381,82,9,4480.71,4.36
+CMP-0456,2025-04-30,Student Offer - Google Search,Google Search,Mumbai,Young Professionals,Ticket Sales,1577.94,32008,1313,208,38,10613.0,4.03
+CMP-0451,2025-05-01,Festival Push - LinkedIn Ads,LinkedIn Ads,Sydney,Families,Ticket Sales,950.28,18313,123,20,2,408.24,4.24
+CMP-0464,2025-05-01,Corporate Outreach - Sponsorship,Sponsorship,Sydney,Young Professionals,Sponsorship,1139.17,27008,641,126,11,5872.29,5.0
+CMP-0081,2025-05-02,Weekend Boost - Retargeting,Retargeting,Sydney,Families,Lead Generation,619.47,10241,742,118,27,7044.23,4.14
+CMP-0500,2025-05-02,Student Offer - Sponsorship,Sponsorship,Bangalore,Premium Experience Seekers,Lead Generation,1550.98,28556,457,52,7,5723.78,4.41
+CMP-0094,2025-05-03,Summer Launch - Retargeting,Retargeting,Melbourne,Young Professionals,Awareness,766.64,19764,1383,239,30,6306.95,3.64
+CMP-0347,2025-05-03,Festival Push - LinkedIn Ads,LinkedIn Ads,Melbourne,Families,Lead Generation,368.94,6257,103,16,0,0.0,4.67
+CMP-0027,2025-05-04,VIP Upgrade - Google Search,Google Search,Brisbane,Students,Lead Generation,1552.34,29006,1491,213,26,6717.34,4.4
+CMP-0050,2025-05-04,Summer Launch - Retargeting,Retargeting,Bangalore,Premium Experience Seekers,Awareness,820.78,15891,995,198,33,6545.85,4.18
+CMP-0101,2025-05-04,Summer Launch - Google Search,Google Search,Delhi,Premium Experience Seekers,Awareness,1606.67,38754,2081,444,36,10977.31,4.44
+CMP-0280,2025-05-04,Student Offer - Influencer,Influencer,Melbourne,Corporate Buyers,Ticket Sales,457.39,7644,240,33,3,1040.8,3.74
+CMP-0084,2025-05-05,Corporate Outreach - LinkedIn Ads,LinkedIn Ads,Melbourne,Families,Retargeting,672.51,17137,219,56,3,1059.25,4.77
+CMP-0009,2025-05-06,Early Bird - Meta Ads,Meta Ads,Bangalore,Families,Awareness,706.36,15256,344,57,5,767.25,4.46
+CMP-0159,2025-05-08,Festival Push - Sponsorship,Sponsorship,Mumbai,Music Enthusiasts,Lead Generation,1519.09,27573,555,118,9,4526.83,3.46
+CMP-0316,2025-05-08,Weekend Boost - LinkedIn Ads,LinkedIn Ads,Melbourne,Premium Experience Seekers,Awareness,513.18,13256,187,38,0,0.0,4.48
+CMP-0286,2025-05-09,Festival Push - Google Search,Google Search,Melbourne,Families,Lead Generation,1131.9,23124,966,185,34,6688.06,4.34
+CMP-0238,2025-05-10,Weekend Boost - Retargeting,Retargeting,Melbourne,Students,Sponsorship,653.08,13238,959,178,70,8955.54,4.26
+CMP-0353,2025-05-10,Early Bird - Email,Email,Delhi,Young Professionals,Ticket Sales,240.49,3881,315,63,11,2168.83,3.77
+CMP-0132,2025-05-12,Early Bird - LinkedIn Ads,LinkedIn Ads,Delhi,Students,Lead Generation,917.68,17576,268,28,2,849.85,4.25
+CMP-0418,2025-05-13,Last Mile Sales - Meta Ads,Meta Ads,Bangalore,Corporate Buyers,Ticket Sales,1062.63,28080,922,177,14,4279.76,3.68
+CMP-0310,2025-05-14,VIP Upgrade - Retargeting,Retargeting,Bangalore,Students,Ticket Sales,747.01,16348,881,187,44,8800.83,3.92
+CMP-0495,2025-05-14,Weekend Boost - Retargeting,Retargeting,Melbourne,Premium Experience Seekers,Lead Generation,791.35,14523,685,139,39,14174.18,3.5
+CMP-0378,2025-05-16,VIP Upgrade - Meta Ads,Meta Ads,Mumbai,Music Enthusiasts,Awareness,1072.27,11245,321,58,3,678.63,4.19
+CMP-0469,2025-05-16,Weekend Boost - Sponsorship,Sponsorship,Melbourne,Premium Experience Seekers,Awareness,1178.69,17979,407,80,4,2288.14,4.3
+CMP-0484,2025-05-18,Summer Launch - Meta Ads,Meta Ads,Delhi,Corporate Buyers,Sponsorship,557.13,9761,244,40,4,1302.58,4.48
+CMP-0131,2025-05-20,Early Bird - LinkedIn Ads,LinkedIn Ads,Melbourne,Corporate Buyers,Lead Generation,693.58,10898,142,20,1,360.34,4.45
+CMP-0512,2025-05-21,Early Bird - Meta Ads,Meta Ads,Bangalore,Young Professionals,Sponsorship,757.38,14617,254,53,4,793.11,3.7
+CMP-0274,2025-05-22,Student Offer - Email,Email,Bangalore,Students,Ticket Sales,381.61,8465,812,161,38,5948.33,3.95
+CMP-0297,2025-05-22,Student Offer - Sponsorship,Sponsorship,Sydney,Corporate Buyers,Awareness,1440.49,25925,336,54,2,764.52,3.92
+CMP-0072,2025-05-25,Corporate Outreach - Meta Ads,Meta Ads,Melbourne,Families,Retargeting,1046.98,22083,473,77,13,1611.13,3.46
+CMP-0222,2025-05-27,Summer Launch - Meta Ads,Meta Ads,Melbourne,Students,Ticket Sales,1047.14,21552,563,121,8,780.56,4.42
+CMP-0334,2025-05-27,Summer Launch - Retargeting,Retargeting,Bangalore,Premium Experience Seekers,Lead Generation,661.18,14290,1063,179,38,10464.35,4.6
+CMP-0210,2025-05-28,VIP Upgrade - LinkedIn Ads,LinkedIn Ads,Bangalore,Families,Awareness,688.48,15390,198,42,1,274.28,3.9
+CMP-0233,2025-05-28,Weekend Boost - Retargeting,Retargeting,Melbourne,Young Professionals,Retargeting,499.02,9621,738,106,33,6747.83,3.7
+CMP-0349,2025-05-28,Festival Push - Influencer,Influencer,Mumbai,Premium Experience Seekers,Ticket Sales,918.39,21215,696,119,8,1667.76,3.92
+CMP-0467,2025-05-28,Early Bird - Influencer,Influencer,Mumbai,Corporate Buyers,Sponsorship,620.64,10326,321,76,6,1385.93,4.38
+CMP-0480,2025-06-01,Summer Launch - Email,Email,Bangalore,Families,Retargeting,392.29,10163,997,211,46,6482.67,4.37
+CMP-0168,2025-06-02,VIP Upgrade - Sponsorship,Sponsorship,Bangalore,Premium Experience Seekers,Ticket Sales,1866.29,34957,463,65,12,4524.87,4.6
+CMP-0282,2025-06-03,Festival Push - Google Search,Google Search,Bangalore,Corporate Buyers,Ticket Sales,891.19,21449,1208,161,55,26931.28,4.55
+CMP-0096,2025-06-04,Festival Push - Google Search,Google Search,Delhi,Premium Experience Seekers,Awareness,1041.37,20862,1240,231,16,7068.13,4.75
+CMP-0125,2025-06-04,Student Offer - Retargeting,Retargeting,Sydney,Young Professionals,Ticket Sales,946.79,19622,1164,243,72,18236.68,4.46
+CMP-0375,2025-06-05,Weekend Boost - Email,Email,Melbourne,Premium Experience Seekers,Awareness,355.28,6555,686,117,16,3137.62,4.69
+CMP-0293,2025-06-08,Early Bird - Email,Email,Melbourne,Corporate Buyers,Lead Generation,288.8,6658,798,165,17,3782.71,4.29
+CMP-0430,2025-06-09,Last Mile Sales - Email,Email,Brisbane,Music Enthusiasts,Ticket Sales,280.07,3268,304,54,11,3267.71,4.63
+CMP-0091,2025-06-10,Last Mile Sales - Email,Email,Sydney,Music Enthusiasts,Ticket Sales,363.47,6501,597,128,22,5257.6,4.44
+CMP-0408,2025-06-10,Festival Push - Email,Email,Mumbai,Corporate Buyers,Ticket Sales,335.23,6387,487,104,22,4650.46,4.25
+CMP-0482,2025-06-11,Corporate Outreach - Sponsorship,Sponsorship,Bangalore,Music Enthusiasts,Awareness,1156.82,21958,227,39,2,1251.21,4.32
+CMP-0396,2025-06-13,Weekend Boost - Meta Ads,Meta Ads,Melbourne,Young Professionals,Ticket Sales,1005.05,23938,740,129,13,1603.79,3.83
+CMP-0045,2025-06-14,Last Mile Sales - Google Search,Google Search,Sydney,Families,Retargeting,1054.15,23044,861,146,29,6273.37,4.48
+CMP-0110,2025-06-14,Early Bird - Retargeting,Retargeting,Sydney,Students,Lead Generation,968.8,16287,1219,188,39,7672.95,4.19
+CMP-0058,2025-06-15,Early Bird - Google Search,Google Search,Melbourne,Students,Awareness,1312.09,32605,1596,192,30,4830.44,4.08
+CMP-0518,2025-06-15,VIP Upgrade - Meta Ads,Meta Ads,Melbourne,Premium Experience Seekers,Ticket Sales,994.1,18578,486,89,13,3235.0,4.22
+CMP-0179,2025-06-17,Early Bird - Meta Ads,Meta Ads,Sydney,Corporate Buyers,Ticket Sales,601.56,9638,291,57,5,933.28,4.47
+CMP-0384,2025-06-17,VIP Upgrade - Meta Ads,Meta Ads,Delhi,Young Professionals,Retargeting,943.68,17090,351,87,6,1324.03,3.96
+CMP-0446,2025-06-17,Early Bird - Meta Ads,Meta Ads,Melbourne,Students,Awareness,804.77,16416,425,87,6,714.79,3.94
+CMP-0086,2025-06-18,Corporate Outreach - Retargeting,Retargeting,Sydney,Premium Experience Seekers,Ticket Sales,601.49,8620,660,129,20,6115.93,4.46
+CMP-0134,2025-06-18,Early Bird - Retargeting,Retargeting,Mumbai,Young Professionals,Sponsorship,908.2,17544,766,154,47,11114.08,4.54
+CMP-0386,2025-06-18,Student Offer - Google Search,Google Search,Sydney,Premium Experience Seekers,Ticket Sales,1233.03,22364,1019,238,32,14243.41,4.01
+CMP-0226,2025-06-19,Festival Push - Email,Email,Brisbane,Corporate Buyers,Ticket Sales,433.46,11048,835,178,28,7056.86,4.36
+CMP-0416,2025-06-19,Weekend Boost - Google Search,Google Search,Melbourne,Young Professionals,Retargeting,1233.29,23330,1188,209,40,10146.25,4.29
+CMP-0232,2025-06-20,Summer Launch - Meta Ads,Meta Ads,Delhi,Premium Experience Seekers,Ticket Sales,937.08,24890,609,115,15,3023.84,3.54
+CMP-0304,2025-06-21,Corporate Outreach - Retargeting,Retargeting,Melbourne,Music Enthusiasts,Lead Generation,773.57,21857,1932,219,104,29826.03,3.66
+CMP-0363,2025-06-21,Last Mile Sales - Email,Email,Melbourne,Music Enthusiasts,Awareness,338.07,5396,523,91,25,5393.34,4.07
+CMP-0503,2025-06-21,Early Bird - Influencer,Influencer,Bangalore,Families,Sponsorship,766.88,19542,610,102,5,1039.02,4.43
+CMP-0146,2025-06-22,Corporate Outreach - Retargeting,Retargeting,Sydney,Music Enthusiasts,Ticket Sales,906.84,15611,1153,207,62,12477.37,4.17
+CMP-0413,2025-06-22,Corporate Outreach - Email,Email,Brisbane,Corporate Buyers,Lead Generation,371.55,8058,694,105,21,5386.51,4.0
+CMP-0105,2025-06-23,VIP Upgrade - Retargeting,Retargeting,Brisbane,Music Enthusiasts,Retargeting,1048.19,29183,1613,238,93,16966.45,3.74
+CMP-0251,2025-06-23,Corporate Outreach - Google Search,Google Search,Bangalore,Young Professionals,Ticket Sales,869.87,13022,739,172,26,7745.7,3.55
+CMP-0267,2025-06-23,Corporate Outreach - Meta Ads,Meta Ads,Bangalore,Families,Ticket Sales,735.84,13267,371,61,8,1485.21,4.51
+CMP-0435,2025-06-23,Festival Push - Email,Email,Mumbai,Families,Ticket Sales,129.6,2907,223,34,10,1663.2,4.03
+CMP-0165,2025-06-25,Summer Launch - Meta Ads,Meta Ads,Melbourne,Music Enthusiasts,Lead Generation,1007.84,12062,341,48,5,704.46,4.39
+CMP-0317,2025-06-26,Early Bird - Sponsorship,Sponsorship,Sydney,Young Professionals,Awareness,697.79,16361,357,55,4,1871.11,4.31
+CMP-0422,2025-06-27,Corporate Outreach - LinkedIn Ads,LinkedIn Ads,Sydney,Young Professionals,Lead Generation,697.79,12369,171,31,1,387.31,4.19
+CMP-0409,2025-06-28,Summer Launch - Google Search,Google Search,Sydney,Premium Experience Seekers,Awareness,682.03,12662,725,112,22,9145.15,4.66
+CMP-0098,2025-06-29,Festival Push - Meta Ads,Meta Ads,Bangalore,Corporate Buyers,Sponsorship,914.02,18653,510,112,10,2670.99,3.85
+CMP-0003,2025-07-01,Festival Push - Retargeting,Retargeting,Delhi,Music Enthusiasts,Ticket Sales,758.58,16478,1620,268,62,12104.05,4.42
+CMP-0126,2025-07-01,Weekend Boost - Retargeting,Retargeting,Melbourne,Young Professionals,Awareness,725.12,14260,932,71,19,5243.88,3.97
+CMP-0187,2025-07-01,Last Mile Sales - Sponsorship,Sponsorship,Melbourne,Music Enthusiasts,Sponsorship,1125.68,20930,393,82,9,6132.69,4.17
+CMP-0231,2025-07-01,Last Mile Sales - Retargeting,Retargeting,Sydney,Students,Retargeting,810.94,20135,1344,231,83,12156.06,4.41
+CMP-0175,2025-07-03,Early Bird - Email,Email,Delhi,Premium Experience Seekers,Sponsorship,272.44,7861,664,104,31,8130.34,3.71
+CMP-0186,2025-07-03,Corporate Outreach - Retargeting,Retargeting,Sydney,Corporate Buyers,Lead Generation,525.94,10661,753,140,45,10937.08,4.35
+CMP-0024,2025-07-04,Last Mile Sales - Influencer,Influencer,Sydney,Young Professionals,Lead Generation,760.02,13006,426,75,6,1831.82,4.34
+CMP-0075,2025-07-04,Weekend Boost - Email,Email,Sydney,Students,Retargeting,401.41,8078,780,140,39,6119.73,3.52
+CMP-0404,2025-07-04,Summer Launch - Google Search,Google Search,Sydney,Young Professionals,Ticket Sales,1231.07,27366,1393,259,32,10883.34,3.8
+CMP-0088,2025-07-05,Weekend Boost - Meta Ads,Meta Ads,Brisbane,Music Enthusiasts,Ticket Sales,1015.88,23664,632,97,8,1956.23,4.2
+CMP-0372,2025-07-06,Student Offer - Google Search,Google Search,Melbourne,Music Enthusiasts,Awareness,1474.27,29669,1307,187,20,5961.77,4.19
+CMP-0217,2025-07-07,Weekend Boost - Sponsorship,Sponsorship,Bangalore,Families,Ticket Sales,1336.29,36435,551,103,11,4453.51,4.16
+CMP-0434,2025-07-07,Early Bird - Meta Ads,Meta Ads,Melbourne,Music Enthusiasts,Retargeting,1498.45,38270,1099,196,27,7234.6,3.91
+CMP-0412,2025-07-08,Festival Push - Email,Email,Sydney,Music Enthusiasts,Ticket Sales,253.42,4945,484,99,20,5023.87,4.2
+CMP-0163,2025-07-09,Student Offer - Email,Email,Melbourne,Students,Awareness,378.74,5931,684,147,19,2820.81,4.13
+CMP-0167,2025-07-09,Summer Launch - Google Search,Google Search,Mumbai,Families,Retargeting,1261.33,25969,1236,241,31,7602.17,4.39
+CMP-0497,2025-07-09,Weekend Boost - Sponsorship,Sponsorship,Bangalore,Families,Retargeting,1342.68,28390,603,106,14,5558.61,3.97
+CMP-0152,2025-07-10,VIP Upgrade - Email,Email,Mumbai,Students,Ticket Sales,190.8,3421,366,48,14,1646.69,4.24
+CMP-0223,2025-07-10,VIP Upgrade - Retargeting,Retargeting,Mumbai,Corporate Buyers,Ticket Sales,671.33,12118,812,203,22,6707.89,3.61
+CMP-0079,2025-07-11,Student Offer - Meta Ads,Meta Ads,Melbourne,Students,Ticket Sales,1111.4,15401,444,81,8,1637.66,3.98
+CMP-0423,2025-07-12,Corporate Outreach - Google Search,Google Search,Sydney,Premium Experience Seekers,Ticket Sales,767.66,13907,635,146,17,6900.67,3.97
+CMP-0057,2025-07-14,Early Bird - Sponsorship,Sponsorship,Mumbai,Families,Ticket Sales,1699.79,22228,411,68,11,4379.5,4.78
+CMP-0129,2025-07-14,Corporate Outreach - Sponsorship,Sponsorship,Brisbane,Students,Ticket Sales,732.35,14967,323,57,2,722.74,4.14
+CMP-0305,2025-07-15,Student Offer - Email,Email,Sydney,Students,Ticket Sales,128.48,2455,272,49,10,1715.77,4.54
+CMP-0312,2025-07-15,Weekend Boost - Sponsorship,Sponsorship,Melbourne,Families,Sponsorship,1364.11,29518,586,88,16,6789.21,3.76
+CMP-0356,2025-07-16,VIP Upgrade - LinkedIn Ads,LinkedIn Ads,Sydney,Corporate Buyers,Lead Generation,1043.64,23851,369,65,4,2381.07,3.97
+CMP-0433,2025-07-16,Weekend Boost - Meta Ads,Meta Ads,Sydney,Corporate Buyers,Awareness,874.13,15145,427,51,5,979.47,4.33
+CMP-0013,2025-07-17,Last Mile Sales - LinkedIn Ads,LinkedIn Ads,Brisbane,Corporate Buyers,Ticket Sales,902.97,15123,195,30,2,1191.06,4.25
+CMP-0268,2025-07-17,Early Bird - LinkedIn Ads,LinkedIn Ads,Melbourne,Families,Awareness,822.18,14959,166,27,1,276.11,4.09
+CMP-0284,2025-07-19,Weekend Boost - Google Search,Google Search,Mumbai,Students,Retargeting,1634.06,37526,2270,317,93,15178.78,4.29
+CMP-0219,2025-07-20,Last Mile Sales - LinkedIn Ads,LinkedIn Ads,Bangalore,Music Enthusiasts,Lead Generation,970.08,20367,336,66,5,2510.35,4.73
+CMP-0256,2025-07-20,Last Mile Sales - Google Search,Google Search,Melbourne,Families,Awareness,1328.5,19805,910,142,21,5446.2,4.3
+CMP-0285,2025-07-20,Corporate Outreach - Google Search,Google Search,Sydney,Music Enthusiasts,Sponsorship,1555.32,32262,2024,361,46,15851.89,4.07
+CMP-0052,2025-07-21,Corporate Outreach - Google Search,Google Search,Bangalore,Families,Ticket Sales,1332.41,35234,1429,269,73,10247.24,3.75
+CMP-0069,2025-07-21,Summer Launch - Email,Email,Mumbai,Young Professionals,Awareness,400.12,8020,770,139,17,2447.88,4.15
+CMP-0085,2025-07-21,Corporate Outreach - Retargeting,Retargeting,Sydney,Young Professionals,Awareness,631.29,10751,890,161,24,5189.47,4.28
+CMP-0298,2025-07-21,VIP Upgrade - LinkedIn Ads,LinkedIn Ads,Brisbane,Young Professionals,Ticket Sales,778.79,9787,124,24,1,327.81,4.57
+CMP-0507,2025-07-21,Summer Launch - Google Search,Google Search,Mumbai,Families,Ticket Sales,1309.72,33059,1533,261,28,4565.98,4.02
+CMP-0154,2025-07-22,Early Bird - Meta Ads,Meta Ads,Brisbane,Music Enthusiasts,Lead Generation,1449.21,42129,926,168,7,1245.21,3.98
+CMP-0162,2025-07-22,Last Mile Sales - LinkedIn Ads,LinkedIn Ads,Melbourne,Families,Sponsorship,749.55,16974,210,39,3,1115.72,4.37
+CMP-0211,2025-07-22,Weekend Boost - Google Search,Google Search,Sydney,Premium Experience Seekers,Retargeting,934.64,24583,886,114,38,17166.27,3.94
+CMP-0411,2025-07-23,VIP Upgrade - Google Search,Google Search,Melbourne,Corporate Buyers,Retargeting,1031.87,18072,829,128,19,4178.68,4.13
+CMP-0296,2025-07-24,Student Offer - Meta Ads,Meta Ads,Delhi,Young Professionals,Ticket Sales,977.73,17175,515,87,6,1125.46,4.28
+CMP-0508,2025-07-24,Early Bird - Google Search,Google Search,Bangalore,Young Professionals,Lead Generation,995.21,25376,1587,287,37,12213.13,3.85
+CMP-0104,2025-07-25,VIP Upgrade - Meta Ads,Meta Ads,Brisbane,Families,Lead Generation,760.42,17133,461,60,4,719.53,4.41
+CMP-0278,2025-07-25,Last Mile Sales - Meta Ads,Meta Ads,Sydney,Corporate Buyers,Retargeting,809.97,13226,280,60,6,1806.99,4.21
+CMP-0229,2025-07-26,VIP Upgrade - Google Search,Google Search,Bangalore,Corporate Buyers,Ticket Sales,1112.72,13989,638,114,27,7360.12,4.78
+CMP-0113,2025-07-27,VIP Upgrade - Retargeting,Retargeting,Brisbane,Young Professionals,Awareness,427.45,8509,822,171,20,4000.29,4.06
+CMP-0517,2025-07-27,Festival Push - Sponsorship,Sponsorship,Mumbai,Music Enthusiasts,Awareness,1354.67,31583,743,185,10,5366.14,4.12
+CMP-0161,2025-07-30,Weekend Boost - Meta Ads,Meta Ads,Brisbane,Students,Ticket Sales,909.01,23555,532,84,7,1267.24,3.68
+CMP-0380,2025-07-30,Corporate Outreach - Retargeting,Retargeting,Delhi,Young Professionals,Lead Generation,453.07,11831,994,199,26,5948.37,4.04
+CMP-0447,2025-07-30,Last Mile Sales - Meta Ads,Meta Ads,Mumbai,Music Enthusiasts,Ticket Sales,979.68,21589,556,121,15,2548.31,3.84
+CMP-0333,2025-07-31,Last Mile Sales - Influencer,Influencer,Brisbane,Young Professionals,Awareness,535.4,12505,384,64,1,215.79,4.31
+CMP-0012,2025-08-01,Last Mile Sales - Email,Email,Melbourne,Families,Retargeting,196.65,4432,391,50,14,2357.09,4.49
+CMP-0454,2025-08-01,Last Mile Sales - Retargeting,Retargeting,Bangalore,Young Professionals,Sponsorship,497.88,14059,964,244,80,10928.74,3.97
+CMP-0382,2025-08-02,Corporate Outreach - Email,Email,Sydney,Corporate Buyers,Awareness,227.96,3874,410,68,9,3018.08,4.32
+CMP-0455,2025-08-02,Corporate Outreach - Meta Ads,Meta Ads,Melbourne,Corporate Buyers,Retargeting,684.41,14315,429,77,8,1527.35,4.24
+CMP-0244,2025-08-03,Early Bird - LinkedIn Ads,LinkedIn Ads,Melbourne,Music Enthusiasts,Lead Generation,1090.72,23493,334,60,3,1093.85,4.04
+CMP-0056,2025-08-04,Corporate Outreach - Meta Ads,Meta Ads,Delhi,Families,Lead Generation,894.8,16871,439,61,6,1114.28,3.68
+CMP-0442,2025-08-04,Weekend Boost - Google Search,Google Search,Melbourne,Premium Experience Seekers,Lead Generation,1499.57,25365,926,130,23,6550.63,4.33
+CMP-0039,2025-08-05,Festival Push - Google Search,Google Search,Melbourne,Music Enthusiasts,Retargeting,1399.76,26935,1483,285,68,17868.2,3.68
+CMP-0259,2025-08-05,VIP Upgrade - Meta Ads,Meta Ads,Melbourne,Corporate Buyers,Sponsorship,700.63,15501,427,79,13,2322.92,4.19
+CMP-0156,2025-08-08,Corporate Outreach - Retargeting,Retargeting,Brisbane,Young Professionals,Ticket Sales,958.43,22270,1608,152,49,12490.07,4.62
+CMP-0301,2025-08-08,Early Bird - Sponsorship,Sponsorship,Bangalore,Corporate Buyers,Retargeting,798.35,20448,345,63,5,3438.79,3.97
+CMP-0248,2025-08-11,Corporate Outreach - Google Search,Google Search,Mumbai,Families,Ticket Sales,2122.87,34685,2121,453,48,11732.56,4.16
+CMP-0033,2025-08-12,Last Mile Sales - Influencer,Influencer,Brisbane,Premium Experience Seekers,Sponsorship,762.43,19301,690,144,9,4058.13,4.13
+CMP-0127,2025-08-12,Festival Push - Google Search,Google Search,Bangalore,Young Professionals,Ticket Sales,2064.02,53800,2643,420,85,25013.99,4.16
+CMP-0438,2025-08-12,VIP Upgrade - Email,Email,Delhi,Families,Awareness,314.1,5573,450,87,12,1747.27,4.47
+CMP-0170,2025-08-14,Weekend Boost - Meta Ads,Meta Ads,Delhi,Corporate Buyers,Lead Generation,630.24,12843,270,27,3,448.73,3.94
+CMP-0262,2025-08-14,VIP Upgrade - Sponsorship,Sponsorship,Bangalore,Premium Experience Seekers,Ticket Sales,1535.48,40450,757,172,19,16854.22,4.18
+CMP-0370,2025-08-15,VIP Upgrade - Meta Ads,Meta Ads,Delhi,Students,Awareness,1311.89,28743,1016,169,13,2207.48,5.0
+CMP-0473,2025-08-15,Summer Launch - LinkedIn Ads,LinkedIn Ads,Sydney,Corporate Buyers,Retargeting,621.12,11757,212,27,1,394.47,4.3
+CMP-0397,2025-08-16,Early Bird - Google Search,Google Search,Sydney,Corporate Buyers,Ticket Sales,1167.34,24227,1100,253,43,15017.97,4.83
+CMP-0303,2025-08-18,VIP Upgrade - Google Search,Google Search,Melbourne,Students,Awareness,1502.43,38833,1711,322,25,4770.83,4.47
+CMP-0092,2025-08-19,VIP Upgrade - Meta Ads,Meta Ads,Brisbane,Music Enthusiasts,Ticket Sales,770.82,12767,311,61,3,705.77,3.77
+CMP-0020,2025-08-20,Festival Push - Retargeting,Retargeting,Melbourne,Music Enthusiasts,Ticket Sales,473.53,9642,712,190,55,10623.89,4.1
+CMP-0355,2025-08-20,Corporate Outreach - Email,Email,Delhi,Music Enthusiasts,Sponsorship,269.27,5194,483,101,20,4416.48,4.01
+CMP-0029,2025-08-21,Festival Push - Influencer,Influencer,Mumbai,Premium Experience Seekers,Ticket Sales,1147.43,26302,584,103,5,1320.99,4.73
+CMP-0042,2025-08-25,Weekend Boost - Email,Email,Brisbane,Corporate Buyers,Ticket Sales,336.61,7565,653,141,16,3757.23,5.0
+CMP-0291,2025-08-26,Corporate Outreach - Meta Ads,Meta Ads,Melbourne,Corporate Buyers,Retargeting,796.15,19538,601,74,11,2826.2,4.47
+CMP-0359,2025-08-27,Last Mile Sales - Influencer,Influencer,Brisbane,Corporate Buyers,Sponsorship,773.11,13095,319,63,2,630.94,4.49
+CMP-0486,2025-08-28,Early Bird - Influencer,Influencer,Melbourne,Music Enthusiasts,Retargeting,514.3,8446,157,31,1,250.7,4.33
+CMP-0444,2025-08-29,VIP Upgrade - Google Search,Google Search,Brisbane,Young Professionals,Ticket Sales,1275.5,25685,1083,225,20,5037.92,4.1
+CMP-0070,2025-08-31,Early Bird - Google Search,Google Search,Bangalore,Premium Experience Seekers,Lead Generation,624.65,12186,747,162,24,8421.08,3.9
+CMP-0489,2025-08-31,Summer Launch - Sponsorship,Sponsorship,Melbourne,Premium Experience Seekers,Sponsorship,1801.02,33545,433,87,12,7695.98,4.34
+CMP-0249,2025-09-01,Last Mile Sales - Retargeting,Retargeting,Melbourne,Corporate Buyers,Lead Generation,888.69,19836,1593,249,47,11298.34,3.98
+CMP-0510,2025-09-01,Weekend Boost - Google Search,Google Search,Sydney,Young Professionals,Awareness,1912.26,41813,2398,505,53,12749.26,4.3
+CMP-0014,2025-09-03,Corporate Outreach - Google Search,Google Search,Brisbane,Corporate Buyers,Awareness,1231.18,33330,1773,380,23,5582.47,3.86
+CMP-0077,2025-09-03,Last Mile Sales - Google Search,Google Search,Brisbane,Students,Ticket Sales,564.49,11262,562,99,14,2952.17,4.53
+CMP-0090,2025-09-04,Early Bird - Meta Ads,Meta Ads,Melbourne,Students,Lead Generation,1066.72,23083,692,73,9,710.44,4.21
+CMP-0393,2025-09-04,Student Offer - Influencer,Influencer,Delhi,Premium Experience Seekers,Retargeting,805.9,15982,533,100,6,1536.88,4.79
+CMP-0288,2025-09-05,Weekend Boost - Meta Ads,Meta Ads,Brisbane,Families,Ticket Sales,827.11,20858,488,105,4,823.25,4.06
+CMP-0314,2025-09-05,Festival Push - Google Search,Google Search,Mumbai,Young Professionals,Retargeting,781.86,17654,1257,229,39,11020.92,4.91
+CMP-0240,2025-09-06,Weekend Boost - Email,Email,Bangalore,Families,Lead Generation,298.93,8917,1025,153,43,5533.57,3.58
+CMP-0035,2025-09-07,Last Mile Sales - Sponsorship,Sponsorship,Melbourne,Corporate Buyers,Retargeting,1636.51,37325,688,142,15,10324.22,3.95
+CMP-0064,2025-09-07,Student Offer - Meta Ads,Meta Ads,Melbourne,Students,Ticket Sales,1380.95,29179,896,125,12,1999.74,4.22
+CMP-0381,2025-09-07,Summer Launch - Retargeting,Retargeting,Mumbai,Families,Ticket Sales,587.69,10436,788,117,16,3216.41,4.38
+CMP-0049,2025-09-09,VIP Upgrade - Meta Ads,Meta Ads,Delhi,Young Professionals,Sponsorship,956.1,17947,418,60,5,803.66,4.18
+CMP-0116,2025-09-09,VIP Upgrade - Google Search,Google Search,Brisbane,Corporate Buyers,Ticket Sales,983.82,17469,904,113,24,9556.23,4.3
+CMP-0373,2025-09-11,Festival Push - Email,Email,Delhi,Families,Awareness,281.16,6165,379,57,10,972.98,4.59
+CMP-0093,2025-09-13,VIP Upgrade - Sponsorship,Sponsorship,Delhi,Students,Ticket Sales,1510.84,32701,601,117,10,4978.63,4.04
+CMP-0337,2025-09-14,Weekend Boost - Retargeting,Retargeting,Brisbane,Music Enthusiasts,Ticket Sales,1032.33,21001,864,152,58,16421.24,3.92
+CMP-0389,2025-09-14,Corporate Outreach - Email,Email,Melbourne,Students,Retargeting,490.95,11484,976,203,30,3393.44,4.32
+CMP-0449,2025-09-15,Festival Push - Influencer,Influencer,Bangalore,Music Enthusiasts,Awareness,930.95,17874,483,97,4,669.43,4.09
+CMP-0038,2025-09-17,Summer Launch - Influencer,Influencer,Melbourne,Music Enthusiasts,Lead Generation,1126.18,16297,540,77,6,1419.45,3.56
+CMP-0272,2025-09-17,Festival Push - Email,Email,Mumbai,Premium Experience Seekers,Ticket Sales,372.98,5943,495,102,26,6360.48,4.22
+CMP-0239,2025-09-18,Corporate Outreach - Meta Ads,Meta Ads,Melbourne,Music Enthusiasts,Ticket Sales,731.72,14138,508,68,6,918.8,4.8
+CMP-0504,2025-09-18,Summer Launch - LinkedIn Ads,LinkedIn Ads,Bangalore,Music Enthusiasts,Awareness,977.25,22100,338,71,1,279.69,3.94
+CMP-0401,2025-09-19,Summer Launch - Google Search,Google Search,Melbourne,Music Enthusiasts,Retargeting,1406.07,27544,1855,354,71,24814.91,4.33
+CMP-0364,2025-09-20,Weekend Boost - Sponsorship,Sponsorship,Brisbane,Music Enthusiasts,Ticket Sales,1402.82,18330,306,70,5,2175.63,3.96
+CMP-0008,2025-09-21,Student Offer - Google Search,Google Search,Melbourne,Young Professionals,Awareness,1420.44,25741,1341,263,28,8493.34,4.17
+CMP-0188,2025-09-21,VIP Upgrade - Retargeting,Retargeting,Melbourne,Premium Experience Seekers,Ticket Sales,547.81,8890,737,123,40,11481.31,4.46
+CMP-0212,2025-09-22,Summer Launch - Meta Ads,Meta Ads,Sydney,Music Enthusiasts,Retargeting,902.97,23657,588,107,14,4396.98,4.0
+CMP-0388,2025-09-22,Summer Launch - Retargeting,Retargeting,Bangalore,Young Professionals,Ticket Sales,547.54,8752,702,130,25,5305.17,3.68
+CMP-0369,2025-09-23,Last Mile Sales - LinkedIn Ads,LinkedIn Ads,Bangalore,Young Professionals,Lead Generation,842.08,19831,333,55,4,1658.05,4.39
+CMP-0177,2025-09-24,VIP Upgrade - Email,Email,Melbourne,Families,Retargeting,249.22,5113,464,61,14,2479.16,3.29
+CMP-0350,2025-09-24,Early Bird - LinkedIn Ads,LinkedIn Ads,Sydney,Families,Lead Generation,626.42,13238,150,25,1,366.9,3.96
+CMP-0068,2025-09-27,Early Bird - Google Search,Google Search,Bangalore,Families,Ticket Sales,1725.73,36276,2344,422,86,14401.19,4.34
+CMP-0100,2025-09-27,Weekend Boost - Sponsorship,Sponsorship,Melbourne,Students,Ticket Sales,1475.05,29720,526,94,15,2770.64,3.5
+CMP-0414,2025-09-28,Weekend Boost - Email,Email,Sydney,Families,Ticket Sales,397.82,7386,714,132,9,1134.82,4.18
+CMP-0144,2025-09-29,Last Mile Sales - LinkedIn Ads,LinkedIn Ads,Mumbai,Premium Experience Seekers,Ticket Sales,958.32,9912,154,19,2,995.6,4.61
+CMP-0361,2025-09-29,Summer Launch - Sponsorship,Sponsorship,Melbourne,Music Enthusiasts,Ticket Sales,1121.7,19702,426,91,7,3132.39,3.97
+CMP-0445,2025-09-29,Weekend Boost - Retargeting,Retargeting,Bangalore,Music Enthusiasts,Ticket Sales,588.96,11664,1113,189,81,19427.26,4.35
+CMP-0087,2025-09-30,VIP Upgrade - Sponsorship,Sponsorship,Melbourne,Premium Experience Seekers,Retargeting,1695.35,31854,523,110,15,13665.87,4.66
+CMP-0180,2025-09-30,Corporate Outreach - LinkedIn Ads,LinkedIn Ads,Melbourne,Corporate Buyers,Lead Generation,852.65,19041,242,28,2,732.83,3.69
+CMP-0016,2025-10-01,Summer Launch - LinkedIn Ads,LinkedIn Ads,Mumbai,Young Professionals,Retargeting,877.63,17136,252,56,3,1060.95,4.59
+CMP-0410,2025-10-01,Corporate Outreach - Retargeting,Retargeting,Mumbai,Corporate Buyers,Lead Generation,660.52,12031,940,174,36,12763.0,4.33
+CMP-0257,2025-10-02,Festival Push - LinkedIn Ads,LinkedIn Ads,Bangalore,Students,Retargeting,1088.46,18481,131,15,2,538.28,3.94
+CMP-0076,2025-10-03,VIP Upgrade - Retargeting,Retargeting,Melbourne,Corporate Buyers,Awareness,695.99,11989,978,130,26,6223.2,4.18
+CMP-0498,2025-10-03,Early Bird - Influencer,Influencer,Delhi,Families,Awareness,695.32,12993,365,44,2,397.26,4.5
+CMP-0243,2025-10-04,VIP Upgrade - Meta Ads,Meta Ads,Sydney,Families,Sponsorship,912.96,17661,440,119,10,1495.11,4.36
+CMP-0318,2025-10-04,Festival Push - LinkedIn Ads,LinkedIn Ads,Bangalore,Students,Retargeting,1315.6,26555,309,68,6,2054.44,4.62
+CMP-0266,2025-10-05,Corporate Outreach - Retargeting,Retargeting,Melbourne,Premium Experience Seekers,Retargeting,660.99,14731,814,156,57,18369.78,4.25
+CMP-0329,2025-10-05,Corporate Outreach - Meta Ads,Meta Ads,Sydney,Music Enthusiasts,Awareness,931.17,21445,555,90,5,772.77,4.34
+CMP-0071,2025-10-06,Corporate Outreach - Email,Email,Sydney,Music Enthusiasts,Ticket Sales,308.15,4629,401,75,16,2835.06,4.29
+CMP-0006,2025-10-07,Summer Launch - Influencer,Influencer,Brisbane,Music Enthusiasts,Ticket Sales,794.63,17756,620,128,6,1312.93,4.5
+CMP-0139,2025-10-08,Weekend Boost - Google Search,Google Search,Melbourne,Premium Experience Seekers,Sponsorship,1208.22,16330,490,104,13,4069.45,3.71
+CMP-0309,2025-10-09,Festival Push - Google Search,Google Search,Brisbane,Premium Experience Seekers,Retargeting,1140.71,15579,675,158,19,4685.31,3.66
+CMP-0145,2025-10-10,Last Mile Sales - Meta Ads,Meta Ads,Delhi,Premium Experience Seekers,Lead Generation,874.18,16656,322,62,2,612.3,4.25
+CMP-0224,2025-10-10,Early Bird - Retargeting,Retargeting,Delhi,Corporate Buyers,Ticket Sales,607.64,7050,576,132,35,10373.76,4.22
+CMP-0138,2025-10-11,Student Offer - LinkedIn Ads,LinkedIn Ads,Sydney,Premium Experience Seekers,Lead Generation,920.32,18358,189,25,2,1253.8,3.43
+CMP-0061,2025-10-12,Corporate Outreach - Email,Email,Melbourne,Corporate Buyers,Retargeting,297.98,7094,388,58,14,1607.1,3.86
+CMP-0215,2025-10-12,Last Mile Sales - Google Search,Google Search,Mumbai,Families,Ticket Sales,1598.58,28105,976,110,20,3135.96,4.15
+CMP-0459,2025-10-12,Corporate Outreach - Retargeting,Retargeting,Delhi,Families,Ticket Sales,845.24,11541,739,185,27,4719.92,3.89
+CMP-0181,2025-10-13,Weekend Boost - Meta Ads,Meta Ads,Melbourne,Students,Ticket Sales,1244.67,24732,731,126,12,1256.95,3.51
+CMP-0315,2025-10-14,Early Bird - Email,Email,Sydney,Students,Sponsorship,440.72,11989,1191,198,95,12350.2,4.0
+CMP-0358,2025-10-16,Corporate Outreach - Influencer,Influencer,Mumbai,Corporate Buyers,Lead Generation,651.48,15916,569,103,4,1379.72,4.19
+CMP-0399,2025-10-16,Summer Launch - Sponsorship,Sponsorship,Melbourne,Music Enthusiasts,Ticket Sales,1505.48,25177,534,83,9,5181.01,4.82
+CMP-0060,2025-10-17,Early Bird - Retargeting,Retargeting,Sydney,Families,Ticket Sales,648.22,15082,1191,266,52,8674.99,4.03
+CMP-0206,2025-10-17,Festival Push - Google Search,Google Search,Brisbane,Families,Ticket Sales,1236.96,25716,1051,108,27,6377.85,4.62
+CMP-0005,2025-10-18,Festival Push - Influencer,Influencer,Melbourne,Music Enthusiasts,Awareness,894.34,12674,370,60,2,457.71,4.72
+CMP-0149,2025-10-18,Student Offer - Google Search,Google Search,Brisbane,Corporate Buyers,Lead Generation,1321.27,20464,969,179,7,2417.84,4.87
+CMP-0202,2025-10-18,Early Bird - Meta Ads,Meta Ads,Brisbane,Music Enthusiasts,Ticket Sales,1511.07,30302,1008,190,18,4100.1,4.68
+CMP-0485,2025-10-18,Festival Push - Meta Ads,Meta Ads,Sydney,Premium Experience Seekers,Retargeting,935.99,13441,392,73,7,1823.75,3.95
+CMP-0183,2025-10-19,Last Mile Sales - Sponsorship,Sponsorship,Mumbai,Corporate Buyers,Ticket Sales,1194.49,26124,486,98,9,6546.88,4.23
+CMP-0354,2025-10-19,Weekend Boost - Google Search,Google Search,Brisbane,Premium Experience Seekers,Ticket Sales,1306.58,37623,1950,303,47,16682.89,4.15
+CMP-0124,2025-10-20,Weekend Boost - Email,Email,Bangalore,Premium Experience Seekers,Lead Generation,519.78,7135,805,183,23,8518.61,4.55
+CMP-0348,2025-10-20,VIP Upgrade - Meta Ads,Meta Ads,Mumbai,Corporate Buyers,Ticket Sales,707.03,11186,268,38,2,519.73,4.28
+CMP-0051,2025-10-21,Corporate Outreach - Meta Ads,Meta Ads,Bangalore,Families,Retargeting,1322.44,25112,722,69,11,1713.13,3.82
+CMP-0400,2025-10-23,Corporate Outreach - Google Search,Google Search,Bangalore,Premium Experience Seekers,Ticket Sales,810.06,18288,825,157,27,10429.06,4.24
+CMP-0366,2025-10-25,VIP Upgrade - Influencer,Influencer,Brisbane,Students,Ticket Sales,889.18,18045,484,68,4,750.92,4.32
+CMP-0450,2025-10-27,Corporate Outreach - Email,Email,Melbourne,Corporate Buyers,Awareness,443.04,9327,870,128,23,5408.99,3.72
+CMP-0502,2025-10-27,Weekend Boost - Google Search,Google Search,Melbourne,Corporate Buyers,Awareness,1415.36,29169,1734,313,60,20353.87,4.27
+CMP-0200,2025-10-29,Early Bird - LinkedIn Ads,LinkedIn Ads,Bangalore,Students,Lead Generation,905.14,19763,294,60,5,1791.31,3.65
+CMP-0452,2025-10-29,Weekend Boost - LinkedIn Ads,LinkedIn Ads,Mumbai,Families,Retargeting,1222.72,24046,339,77,5,1307.93,3.97
+CMP-0203,2025-10-30,Corporate Outreach - Retargeting,Retargeting,Bangalore,Premium Experience Seekers,Lead Generation,1105.43,20912,1596,357,86,25099.13,3.37
+CMP-0160,2025-10-31,Corporate Outreach - Retargeting,Retargeting,Melbourne,Young Professionals,Ticket Sales,808.29,18948,1722,257,85,21912.84,4.22
+CMP-0046,2025-11-02,VIP Upgrade - Email,Email,Melbourne,Music Enthusiasts,Awareness,465.95,7510,580,131,14,3719.73,4.05
+CMP-0236,2025-11-02,Weekend Boost - Google Search,Google Search,Melbourne,Premium Experience Seekers,Ticket Sales,888.79,17550,852,195,35,13503.25,4.25
+CMP-0306,2025-11-02,Weekend Boost - Sponsorship,Sponsorship,Mumbai,Premium Experience Seekers,Ticket Sales,1557.8,31713,546,75,7,4288.71,4.28
+CMP-0471,2025-11-02,Corporate Outreach - Influencer,Influencer,Sydney,Premium Experience Seekers,Lead Generation,1146.16,22947,939,193,10,2938.94,3.98
+CMP-0429,2025-11-03,Student Offer - Google Search,Google Search,Sydney,Families,Ticket Sales,1189.85,29409,1683,216,39,7022.43,3.9
+CMP-0487,2025-11-03,Student Offer - Google Search,Google Search,Bangalore,Young Professionals,Lead Generation,1595.56,34065,1450,297,37,10997.49,3.98
+CMP-0048,2025-11-04,Student Offer - LinkedIn Ads,LinkedIn Ads,Melbourne,Students,Lead Generation,898.25,17321,231,40,2,459.4,4.45
+CMP-0176,2025-11-04,Summer Launch - Retargeting,Retargeting,Melbourne,Families,Ticket Sales,799.13,11940,1118,227,58,14444.72,4.26
+CMP-0365,2025-11-04,Student Offer - Google Search,Google Search,Brisbane,Students,Awareness,783.92,11514,656,87,9,1929.09,3.8
+CMP-0403,2025-11-04,Early Bird - LinkedIn Ads,LinkedIn Ads,Sydney,Premium Experience Seekers,Awareness,1203.59,25227,334,68,3,1412.25,4.32
+CMP-0028,2025-11-06,Last Mile Sales - LinkedIn Ads,LinkedIn Ads,Sydney,Corporate Buyers,Ticket Sales,943.25,21989,291,53,3,1762.27,3.79
+CMP-0142,2025-11-06,VIP Upgrade - Retargeting,Retargeting,Sydney,Young Professionals,Lead Generation,741.69,12578,985,178,45,12539.55,4.27
+CMP-0377,2025-11-06,Student Offer - LinkedIn Ads,LinkedIn Ads,Melbourne,Corporate Buyers,Awareness,684.89,18293,247,40,2,811.47,3.99
+CMP-0043,2025-11-07,Last Mile Sales - Email,Email,Bangalore,Families,Retargeting,304.73,5144,509,76,30,5853.16,4.33
+CMP-0205,2025-11-07,Corporate Outreach - Retargeting,Retargeting,Melbourne,Corporate Buyers,Awareness,643.81,7584,520,108,12,3168.5,3.96
+CMP-0431,2025-11-07,Summer Launch - Meta Ads,Meta Ads,Bangalore,Families,Awareness,1117.33,23941,519,115,6,618.98,4.18
+CMP-0300,2025-11-08,VIP Upgrade - Influencer,Influencer,Delhi,Music Enthusiasts,Ticket Sales,789.07,19658,610,107,9,1720.47,5.0
+CMP-0402,2025-11-08,Student Offer - LinkedIn Ads,LinkedIn Ads,Melbourne,Premium Experience Seekers,Ticket Sales,756.95,17564,252,56,3,1691.37,4.38
+CMP-0007,2025-11-09,Festival Push - Meta Ads,Meta Ads,Delhi,Students,Awareness,1019.08,23196,578,107,6,848.26,4.36
+CMP-0128,2025-11-09,Festival Push - Sponsorship,Sponsorship,Sydney,Students,Ticket Sales,1486.84,40354,773,165,12,3676.22,4.36
+CMP-0143,2025-11-10,Festival Push - Retargeting,Retargeting,Delhi,Students,Awareness,447.74,7466,544,97,14,2914.91,3.58
+CMP-0106,2025-11-11,Corporate Outreach - LinkedIn Ads,LinkedIn Ads,Melbourne,Students,Awareness,681.43,11686,137,35,1,352.79,4.03
+CMP-0111,2025-11-12,Corporate Outreach - Google Search,Google Search,Melbourne,Families,Ticket Sales,1093.49,21653,1102,166,42,10585.83,4.41
+CMP-0148,2025-11-12,Student Offer - LinkedIn Ads,LinkedIn Ads,Melbourne,Corporate Buyers,Lead Generation,898.32,17458,282,45,1,335.74,4.01
+CMP-0290,2025-11-13,Festival Push - LinkedIn Ads,LinkedIn Ads,Mumbai,Premium Experience Seekers,Lead Generation,961.35,21090,332,48,3,1362.82,4.43
+CMP-0336,2025-11-13,Student Offer - Influencer,Influencer,Sydney,Families,Lead Generation,1216.13,23457,625,143,6,1278.24,4.15
+CMP-0123,2025-11-14,Weekend Boost - Retargeting,Retargeting,Melbourne,Corporate Buyers,Retargeting,905.15,16930,1157,188,54,17100.81,4.29
+CMP-0458,2025-11-14,Weekend Boost - Meta Ads,Meta Ads,Sydney,Music Enthusiasts,Awareness,1222.62,27394,862,95,12,2797.32,4.55
+CMP-0520,2025-11-14,Last Mile Sales - Google Search,Google Search,Sydney,Students,Lead Generation,828.47,12395,533,94,15,3405.48,4.26
+CMP-0102,2025-11-15,Last Mile Sales - Meta Ads,Meta Ads,Mumbai,Young Professionals,Retargeting,590.99,9013,227,38,2,312.99,3.9
+CMP-0421,2025-11-15,VIP Upgrade - Google Search,Google Search,Brisbane,Students,Retargeting,1372.57,32097,1534,253,41,9220.29,4.19
+CMP-0426,2025-11-15,Corporate Outreach - Email,Email,Melbourne,Corporate Buyers,Lead Generation,162.12,3090,346,44,10,2072.07,4.12
+CMP-0440,2025-11-16,Early Bird - Google Search,Google Search,Melbourne,Families,Ticket Sales,1249.78,26753,1286,189,37,6021.58,4.51
+CMP-0472,2025-11-16,Early Bird - Email,Email,Melbourne,Young Professionals,Ticket Sales,444.38,8324,731,156,43,6934.17,3.97
+CMP-0095,2025-11-17,VIP Upgrade - Google Search,Google Search,Melbourne,Students,Ticket Sales,1752.36,36755,1859,362,62,12758.31,4.06
+CMP-0292,2025-11-17,Summer Launch - Sponsorship,Sponsorship,Brisbane,Students,Retargeting,1176.42,22298,402,71,3,1032.65,4.22
+CMP-0294,2025-11-17,Student Offer - Google Search,Google Search,Brisbane,Families,Awareness,1397.11,32556,1447,242,6,1142.12,4.02
+CMP-0496,2025-11-17,Student Offer - Retargeting,Retargeting,Melbourne,Students,Sponsorship,754.91,10779,872,175,44,7115.67,3.52
+CMP-0443,2025-11-18,Corporate Outreach - Influencer,Influencer,Sydney,Young Professionals,Awareness,536.71,10727,393,76,3,844.33,3.94
+CMP-0360,2025-11-19,Summer Launch - Meta Ads,Meta Ads,Brisbane,Students,Awareness,766.48,21002,531,109,1,194.3,4.71
+CMP-0150,2025-11-21,Summer Launch - LinkedIn Ads,LinkedIn Ads,Bangalore,Young Professionals,Lead Generation,703.36,7664,119,20,1,399.63,4.0
+CMP-0196,2025-11-21,VIP Upgrade - Influencer,Influencer,Melbourne,Students,Awareness,740.81,12141,355,79,2,238.8,4.53
+CMP-0234,2025-11-22,Weekend Boost - Sponsorship,Sponsorship,Melbourne,Students,Ticket Sales,1441.92,25056,507,116,9,3757.17,4.12
+CMP-0383,2025-11-23,Corporate Outreach - Google Search,Google Search,Melbourne,Corporate Buyers,Retargeting,1406.91,27129,1375,282,29,8285.16,3.8
+CMP-0395,2025-11-23,Early Bird - Influencer,Influencer,Bangalore,Music Enthusiasts,Retargeting,929.59,15985,638,131,7,1361.16,4.41
+CMP-0198,2025-11-24,Corporate Outreach - Email,Email,Sydney,Students,Ticket Sales,106.99,1804,170,29,8,1347.36,4.41
+CMP-0133,2025-11-25,Early Bird - Google Search,Google Search,Sydney,Music Enthusiasts,Lead Generation,1323.6,22687,1458,246,18,3688.54,3.24
+CMP-0197,2025-11-25,Corporate Outreach - Meta Ads,Meta Ads,Melbourne,Students,Awareness,1299.86,20607,547,111,2,372.4,3.79
+CMP-0208,2025-11-25,Festival Push - Google Search,Google Search,Delhi,Families,Awareness,396.26,8724,396,71,6,1243.34,4.48
+CMP-0010,2025-11-26,VIP Upgrade - LinkedIn Ads,LinkedIn Ads,Sydney,Students,Awareness,1037.64,13583,205,38,1,201.29,4.23
+CMP-0514,2025-11-28,VIP Upgrade - Google Search,Google Search,Bangalore,Music Enthusiasts,Retargeting,1522.87,30327,1899,429,90,32361.77,3.84
+CMP-0036,2025-11-29,Summer Launch - Google Search,Google Search,Delhi,Young Professionals,Awareness,1432.41,27125,1380,288,11,2080.43,3.68
+CMP-0494,2025-11-29,Festival Push - Meta Ads,Meta Ads,Melbourne,Students,Awareness,80.0,1815,65,7,1,59.19,4.53
+CMP-0311,2025-11-30,Last Mile Sales - Influencer,Influencer,Brisbane,Music Enthusiasts,Ticket Sales,621.88,16431,605,92,7,1426.59,3.79
+CMP-0492,2025-11-30,Summer Launch - Retargeting,Retargeting,Bangalore,Young Professionals,Ticket Sales,663.25,9919,676,124,39,9526.54,4.52
+CMP-0083,2025-12-01,Last Mile Sales - Google Search,Google Search,Melbourne,Students,Lead Generation,1670.11,35335,1719,329,11,2396.05,2.92
+CMP-0047,2025-12-02,VIP Upgrade - Google Search,Google Search,Delhi,Students,Ticket Sales,920.61,16760,942,117,30,5312.62,4.6
+CMP-0137,2025-12-03,Student Offer - Google Search,Google Search,Melbourne,Young Professionals,Lead Generation,1298.97,21736,896,131,19,3740.57,4.26
+CMP-0465,2025-12-03,Student Offer - Meta Ads,Meta Ads,Brisbane,Music Enthusiasts,Awareness,1089.03,18442,425,91,4,1143.97,4.83
+CMP-0112,2025-12-04,Summer Launch - Google Search,Google Search,Mumbai,Young Professionals,Ticket Sales,1031.74,20731,961,227,32,8061.06,4.62
+CMP-0103,2025-12-06,Summer Launch - Sponsorship,Sponsorship,Bangalore,Corporate Buyers,Awareness,675.3,13190,194,34,1,513.07,4.25
+CMP-0190,2025-12-06,Weekend Boost - Retargeting,Retargeting,Melbourne,Young Professionals,Awareness,539.41,9458,568,80,16,2594.27,4.32
+CMP-0221,2025-12-06,Corporate Outreach - Email,Email,Bangalore,Young Professionals,Retargeting,368.7,7058,438,107,25,4652.22,4.07
+CMP-0462,2025-12-06,Early Bird - Google Search,Google Search,Melbourne,Young Professionals,Ticket Sales,905.37,17727,671,73,26,5739.74,4.51
+CMP-0065,2025-12-07,Last Mile Sales - Google Search,Google Search,Melbourne,Students,Awareness,1532.45,20719,641,137,16,2492.65,3.55
+CMP-0115,2025-12-08,Weekend Boost - Email,Email,Mumbai,Music Enthusiasts,Ticket Sales,288.86,4413,464,72,21,4793.32,4.84
+CMP-0436,2025-12-09,Corporate Outreach - Meta Ads,Meta Ads,Delhi,Students,Ticket Sales,888.74,18982,496,64,10,602.95,4.04
+CMP-0313,2025-12-11,Student Offer - Meta Ads,Meta Ads,Melbourne,Corporate Buyers,Lead Generation,1114.62,26086,796,165,12,2927.41,3.99
+CMP-0343,2025-12-11,Corporate Outreach - Meta Ads,Meta Ads,Melbourne,Families,Lead Generation,1644.72,29764,612,62,8,1239.29,3.97
+CMP-0017,2025-12-12,Early Bird - Google Search,Google Search,Bangalore,Corporate Buyers,Retargeting,1827.82,49158,2473,411,124,30794.47,3.89
+CMP-0108,2025-12-13,VIP Upgrade - Google Search,Google Search,Sydney,Students,Lead Generation,1445.84,32191,1508,212,25,5118.08,4.31
+CMP-0279,2025-12-13,Weekend Boost - LinkedIn Ads,LinkedIn Ads,Mumbai,Families,Lead Generation,929.38,14918,152,23,1,373.19,3.72
+CMP-0453,2025-12-13,Last Mile Sales - Retargeting,Retargeting,Sydney,Premium Experience Seekers,Lead Generation,987.74,20453,1215,188,24,5296.52,4.56
+CMP-0055,2025-12-14,Student Offer - Meta Ads,Meta Ads,Bangalore,Young Professionals,Awareness,809.96,17725,432,71,6,924.36,3.36
+CMP-0153,2025-12-14,Student Offer - Google Search,Google Search,Melbourne,Music Enthusiasts,Lead Generation,978.87,17318,951,154,29,6837.46,3.98
+CMP-0199,2025-12-14,Last Mile Sales - Sponsorship,Sponsorship,Brisbane,Families,Awareness,1706.3,40325,742,53,4,2343.18,4.01
+CMP-0460,2025-12-14,VIP Upgrade - Google Search,Google Search,Mumbai,Premium Experience Seekers,Retargeting,1005.43,23280,1389,301,46,27415.06,4.57
+CMP-0474,2025-12-15,Festival Push - Retargeting,Retargeting,Sydney,Young Professionals,Awareness,903.85,11702,1008,170,35,5492.85,4.2
+CMP-0245,2025-12-16,Last Mile Sales - Meta Ads,Meta Ads,Delhi,Young Professionals,Ticket Sales,1165.39,25919,667,133,9,1695.5,4.54
+CMP-0015,2025-12-18,Student Offer - Email,Email,Sydney,Young Professionals,Sponsorship,403.47,8690,776,138,31,6433.98,4.04
+CMP-0114,2025-12-18,Summer Launch - LinkedIn Ads,LinkedIn Ads,Brisbane,Music Enthusiasts,Retargeting,684.43,10519,121,22,0,0.0,4.46
+CMP-0341,2025-12-20,Festival Push - Google Search,Google Search,Melbourne,Families,Ticket Sales,1158.26,19802,804,104,11,1861.82,4.42
+CMP-0483,2025-12-22,VIP Upgrade - Google Search,Google Search,Sydney,Young Professionals,Awareness,471.12,7367,331,60,4,938.84,3.77
+CMP-0367,2025-12-23,Corporate Outreach - Retargeting,Retargeting,Sydney,Families,Awareness,1128.55,22440,1703,330,45,6973.55,4.94
+CMP-0394,2025-12-23,Festival Push - Influencer,Influencer,Melbourne,Music Enthusiasts,Lead Generation,567.74,9685,247,47,1,217.95,3.45
+CMP-0185,2025-12-24,Summer Launch - Email,Email,Delhi,Corporate Buyers,Lead Generation,364.47,8617,821,161,22,5230.16,4.24
+CMP-0342,2025-12-24,Last Mile Sales - LinkedIn Ads,LinkedIn Ads,Mumbai,Families,Retargeting,915.51,20662,323,40,4,834.61,5.0
+CMP-0374,2025-12-24,Last Mile Sales - Meta Ads,Meta Ads,Brisbane,Families,Ticket Sales,851.91,19995,474,77,5,895.26,4.61
+CMP-0109,2025-12-25,Early Bird - Email,Email,Melbourne,Families,Awareness,434.42,6948,832,134,27,4316.1,4.06
+CMP-0140,2025-12-25,Festival Push - Retargeting,Retargeting,Bangalore,Students,Ticket Sales,766.16,16306,1207,283,49,8137.35,4.6
+CMP-0419,2025-12-28,Last Mile Sales - Influencer,Influencer,Sydney,Families,Lead Generation,899.16,17130,599,89,4,744.12,4.21
+CMP-0155,2025-12-30,VIP Upgrade - Google Search,Google Search,Sydney,Students,Awareness,928.79,29013,1386,252,17,4697.2,4.59
+CMP-0491,2025-12-30,Last Mile Sales - Retargeting,Retargeting,Delhi,Music Enthusiasts,Ticket Sales,754.85,16489,1238,214,45,11380.99,4.08
+CMP-0332,2025-12-31,Weekend Boost - Google Search,Google Search,Melbourne,Corporate Buyers,Awareness,1134.71,22887,1571,255,26,11444.11,4.07
+CMP-0391,2025-12-31,Corporate Outreach - Influencer,Influencer,Melbourne,Corporate Buyers,Retargeting,703.01,12441,400,77,5,1743.26,3.98
